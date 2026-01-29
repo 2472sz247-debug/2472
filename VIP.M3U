@@ -1,0 +1,449 @@
+#EXTM3U
+url-tvg="https://raw.githubusercontent.com/370network/skylink-xmltv/refs/heads/main/a3b_a1.xml"
+#EXTINF:10 group-title="SK/CZ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/Stv1_sk_hd.png", Jednotka HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/129.0.6668.81 Mobile Safari/537.36 Android TV 11 Chrome Webview 129
+http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/22199
+#EXTINF:11 group-title="SK/CZ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Dvojka_logo.svg/640px-Dvojka_logo.svg.png", DVOJKA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/129.0.6668.81 Mobile Safari/537.36 Android TV 11 Chrome Webview 129
+http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/22200
+#EXTINF:19 group-title="SK/CZ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/24_logo.svg/640px-24_logo.svg.png", RTVS :24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/129.0.6668.81 Mobile Safari/537.36 Android TV 11 Chrome Webview 129
+http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/176335
+#EXTINF:12 group-title="SK/CZ" tvg-logo="https://staticeu.sweet.tv/images/cache/channel_icons/BC4AOIBC/952-markiza-hd.png", Markíza HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/129.0.6668.81 Mobile Safari/537.36 Android TV 11 Chrome Webview 129
+http://212.102.38.45/live/test_markiza_25p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzExlCOhKitnTB2LY-WZt6b7beuBCxtRpZbg&s",Markíza +1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/129.0.6668.81 Mobile Safari/537.36 Android TV 11 Chrome Webview 129
+http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/166025
+#EXTINF:-1 group-title="SK/CZ" tvg-logo="https://staticeu.sweet.tv/images/cache/channel_icons/BCUBAIBC/2088-markiza-klasik-hd.png" , Markíza KLASIK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/129.0.6668.81 Mobile Safari/537.36 Android TV 11 Chrome Webview 129
+https://cdnsk003.panaccess.com/local/Markiza_Klasik/index.m3u8
+#EXTINF:21 group-title="SK/CZ" tvg-logo="https://staticeu.sweet.tv/images/cache/channel_icons/BC4QOIBC/953-markiza-krimi-hd.png", Markíza Krimi
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/129.0.6668.81 Mobile Safari/537.36 Android TV 11 Chrome Webview 129
+http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/166024
+#EXTINF:13 group-title="SK/CZ" tvg-logo="https://staticeu.sweet.tv/images/cache/channel_icons/BCXAMIBC/814-joj-hd.png", TV JOJ HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/129.0.6668.81 Mobile Safari/537.36 Android TV 11 Chrome Webview 129
+http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/22190
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSExZUn1PttI7PmvYlpfl9pyn9vQ-naVo_rw&s",TV JOJ +1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/129.0.6668.81 Mobile Safari/537.36 Android TV 11 Chrome Webview 129
+http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/166010
+#EXTINF:14 group-title="SK/CZ" tvg-logo="https://staticeu.sweet.tv/images/cache/channel_icons/BCYAMIBC/816-joj-plus-hd.png", JOJ PLUS HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/129.0.6668.81 Mobile Safari/537.36 Android TV 11 Chrome Webview 129
+http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/22189
+#EXTINF:22 group-title="SK/CZ" tvg-logo="https://staticeu.sweet.tv/images/cache/channel_icons/BCWQMIBC/813-joj-cinema-hd.png", JOJ Cinema
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/129.0.6668.81 Mobile Safari/537.36 Android TV 11 Chrome Webview 129
+http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/176310
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8EHatVu0VI3Gv-Yy7P-hEyi-QsSY4WNdzPA&s",JOJ Cinema +1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/129.0.6668.81 Mobile Safari/537.36 Android TV 11 Chrome Webview 129
+http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/166013
+#EXTINF:-1 group-title="SK/CZ" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lOX-DWTBYGXlY-A6O23Z1JHLo1SjcfK4X-cXGjgI3qaQ=s160-c-k-c0x00ffffff-no-rj",JOJ Family
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/129.0.6668.81 Mobile Safari/537.36 Android TV 11 Chrome Webview 129
+http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/22188
+#EXTINF:-1 group-title="SK/CZ" tvg-logo="https://staticeu.sweet.tv/images/cache/channel_icons/BDBAYIBC/1602-joj-svet-hd.png", JOJ_SVET
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/129.0.6668.81 Mobile Safari/537.36 Android TV 11 Chrome Webview 129
+http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/166016
+#EXTINF:15 group-title="SK/CZ" tvg-logo="https://staticeu.sweet.tv/images/cache/channel_icons/BC5AOIBC/954-doma-hd.png", Doma TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/129.0.6668.81 Mobile Safari/537.36 Android TV 11 Chrome Webview 129
+http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/165985
+#EXTINF:16 group-title="SK/CZ" tvg-logo="https://staticeu.sweet.tv/images/cache/channel_icons/BC5QOIBC/955-dajto-hd.png", DAJTO HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/129.0.6668.81 Mobile Safari/537.36 Android TV 11 Chrome Webview 129
+http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/165980
+#EXTINF:17 group-title="SK/CZ" tvg-logo="https://staticeu.sweet.tv/images/cache/channel_icons/BCZAMIBC/818-wau-hd.png", WAU
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/129.0.6668.81 Mobile Safari/537.36 Android TV 11 Chrome Webview 129
+http://212.102.38.45/live/test_wau_25p/playlist.m3u8
+#EXTINF:-1 group-title="SK/CZ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0_ktqjE2YxjUcB_fju_ljR08_vcBHxmNMnrj_q-s_J1Y9jD-U00g9vEMTtF9NG2ldAYU&usqp=CAU", CANAL PLUS ACTION CZ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/129.0.6668.81 Mobile Safari/537.36 Android TV 11 Chrome Webview 129
+http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/2891
+#EXTINF:3 group-title="SK/CZ" tvg-logo="https://i.pinimg.com/736x/8b/02/00/8b020050690f955ccb306cdf51324aea.jpg", HBO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/129.0.6668.81 Mobile Safari/537.36 Android TV 11 Chrome Webview 129
+http://88.212.15.47/live/test_hbo_hd_hevc/playlist.m3u8
+#EXTINF:4 group-title="SK/CZ" tvg-logo="https://teleprogram.sk/tv/hbo2.png", HBO2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/129.0.6668.81 Mobile Safari/537.36 Android TV 11 Chrome Webview 129
+http://88.212.15.47/live/test_hbo2_hd_hevc/playlist.m3u8
+#EXTINF:5 group-title="SK/CZ" tvg-logo="https://teleprogram.sk/tv/hbo3.png", HBO3 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/129.0.6668.81 Mobile Safari/537.36 Android TV 11 Chrome Webview 129
+http://88.212.15.47/live/test_hbo3_hd_hevc/playlist.m3u8
+#EXTINF:9 group-title="SK/CZ" tvg-logo="https://staticeu.sweet.tv/images/cache/channel_icons/BDGQOIBC/973-film-hd.png", Film+ SK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/129.0.6668.81 Mobile Safari/537.36 Android TV 11 Chrome Webview 129
+http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/176296
+#EXTINF:-1 group-title="SK/CZ" tvg-logo="https://gcp-static.sweet.tv/images/v2/icons/channels/v2/957.webp",Film Europe + HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/129.0.6668.81 Mobile Safari/537.36 Android TV 11 Chrome Webview 129
+http://line.trx-ott.com:80/1badce2bef/a5f5b18ee733/1127730
+#EXTINF:1 group-title="SK/CZ" tvg-logo="https://staticeu.sweet.tv/images/cache/channel_icons/BCTQMIBC/807-axn.png", AXN CZ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/129.0.6668.81 Mobile Safari/537.36 Android TV 11 Chrome Webview 129
+http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/176276
+#EXTINF:-1 group-title="SK/CZ" tvg-logo="https://gcp-static.sweet.tv/images/v2/icons/channels/v2/808.webp",AXN Black
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/129.0.6668.81 Mobile Safari/537.36 Android TV 11 Chrome Webview 129
+http://line.rs6ott.com:80/1badce2bef/a5f5b18ee733/1725127
+#EXTINF:-1 group-title="SK/CZ" tvg-logo="https://gcp-static.sweet.tv/images/v2/icons/channels/v2/809.webp",AXN White
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/129.0.6668.81 Mobile Safari/537.36 Android TV 11 Chrome Webview 129
+http://line.rs6ott.com:80/1badce2bef/a5f5b18ee733/1725126
+#EXTINF:2 group-title="SK/CZ" tvg-logo="https://staticeu.sweet.tv/images/cache/channel_icons/BDOAOIBC/988-amc-hd.png", AMC SK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/129.0.6668.81 Mobile Safari/537.36 Android TV 11 Chrome Webview 129
+http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/176272
+#EXTINF:6 group-title="SK/CZ" tvg-logo="https://i.pinimg.com/736x/47/9f/73/479f73ecce553344b56c02a7c28047ca.jpg", CINEMAX HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/129.0.6668.81 Mobile Safari/537.36 Android TV 11 Chrome Webview 129
+http://88.212.15.47/live/test_cinemax_hd_hevc/playlist.m3u8
+#EXTINF:7 group-title="SK/CZ" tvg-logo="https://static.iptvsrovnani.cz/channels/67af9d55a01da.png", CINEMAX2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/129.0.6668.81 Mobile Safari/537.36 Android TV 11 Chrome Webview 129
+http://88.212.15.47/live/test_cinemax2_hd_hevc/playlist.m3u8
+#EXTINF:-1 group-title="SK/CZ" tvg-logo="https://staticeu.sweet.tv/images/cache/channel_icons/BCOAUIBC/1308-paramount-network-hd.png",PARAMOUNT NETWORK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/129.0.6668.81 Mobile Safari/537.36 Android TV 11 Chrome Webview 129
+http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/34956
+#EXTINF:-1 group-title="SK/CZ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUtzN12UFmwkZgmzcIi-puB5PYflkyXdFivw&s", Warner TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/129.0.6668.81 Mobile Safari/537.36 Android TV 11 Chrome Webview 129
+http://line.rs6ott.com:80/1badce2bef/a5f5b18ee733/1788297
+#EXTINF:-1 group-title="SK/CZ" tvg-logo="https://epicdrama.cz/uploads/cache/opti/bundles/app/images/main/logo.png?1", Epic Drama
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/129.0.6668.81 Mobile Safari/537.36 Android TV 11 Chrome Webview 129
+http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/176293
+#EXTINF:-1 group-title="SK/CZ" tvg-logo="https://staticeu.sweet.tv/images/cache/channel_icons/BCHAQIBC/1038-filmbox-premium-hd.png",FilmBox Premium HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/129.0.6668.81 Mobile Safari/537.36 Android TV 11 Chrome Webview 129
+http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/176301
+#EXTINF:-1 group-title="SK/CZ" tvg-logo="https://staticeu.sweet.tv/images/cache/channel_icons/BCAQQIBC/1025-filmbox-extra-hd.png",Filmbox Extra HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/129.0.6668.81 Mobile Safari/537.36 Android TV 11 Chrome Webview 129
+http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/176299
+#EXTINF:-1 group-title="SK/CZ" tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple116/v4/a4/63/de/a463dec9-8fe7-a83f-7d68-15d0f4d6230d/AppIcon-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg", FILMBOX STARS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/129.0.6668.81 Mobile Safari/537.36 Android TV 11 Chrome Webview 129
+http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/165995
+#EXTINF:-1 group-title="SK/CZ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqBVUr1y-xRLjz59c2bLw4lXULMKMcSH0MlQ&s", Kanal 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/129.0.6668.81 Mobile Safari/537.36 Android TV 11 Chrome Webview 129
+https://dash3.antik.sk/live/test_upnetwork/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://staticeu.sweet.tv/images/cache/channel_icons/BCNQYIBC/1563-a11-hd.png",A11
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/129.0.6668.81 Mobile Safari/537.36 Android TV 11 Chrome Webview 129
+http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/165958
+#EXTINF:28 group-title="SK/CZ" tvg-logo="https://staticeu.sweet.tv/images/cache/channel_icons/BD3AKIBC/758-ta3-hd.png", TA3 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/129.0.6668.81 Mobile Safari/537.36 Android TV 11 Chrome Webview 129
+http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/166072
+#EXTINF:29 group-title="SK/CZ" tvg-logo="https://staticeu.sweet.tv/images/cache/channel_icons/BDTAKIBC/742-cnn-prima-news-hd.png", CNN Prima News
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/129.0.6668.81 Mobile Safari/537.36 Android TV 11 Chrome Webview 129
+http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/176282
+#EXTINF:30 group-title="SK/CZ" tvg-logo="https://gcp-static.sweet.tv/images/v2/icons/channels/v2/743.webp", ČT1 SM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/129.0.6668.81 Mobile Safari/537.36 Android TV 11 Chrome Webview 129
+http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/176286
+#EXTINF:31 group-title="SK/CZ" tvg-logo="https://gcp-static.sweet.tv/images/v2/icons/channels/v2/2396.webp", ČT2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/129.0.6668.81 Mobile Safari/537.36 Android TV 11 Chrome Webview 129
+http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/176287
+#EXTINF:-1 group-title="SK/CZ" tvg-logo="https://gcp-static.sweet.tv/images/v2/icons/channels/v2/2398.webp", ČT art
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/129.0.6668.81 Mobile Safari/537.36 Android TV 11 Chrome Webview 129
+http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/34954
+#EXTINF:-1 group-title="SK/CZ" tvg-logo="https://pbs.twimg.com/amplify_video_thumb/1980298905536344065/img/5fsY7BLUhcjed0Mf.jpg", ČT24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/129.0.6668.81 Mobile Safari/537.36 Android TV 11 Chrome Webview 129
+http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/176288
+#EXTINF:-1 tvg-logo="https://staticeu.sweet.tv/images/cache/channel_icons/BDKAUIBC/1364-tv-barrandov-hd.png",TV Barrandov
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/129.0.6668.81 Mobile Safari/537.36 Android TV 11 Chrome Webview 129
+http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/176279
+#EXTINF:-1 group-title="SK/CZ" tvg-logo="https://gcp-static.sweet.tv/images/v2/icons/channels/v2/1364.webp", Kino Barrandov
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/129.0.6668.81 Mobile Safari/537.36 Android TV 11 Chrome Webview 129
+http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/176311
+#EXTINF:-1 group-title="SK/CZ" tvg-logo="https://gcp-static.sweet.tv/images/v2/icons/channels/v2/741.webp", Barrandov Krimi
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/129.0.6668.81 Mobile Safari/537.36 Android TV 11 Chrome Webview 129
+http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/176280
+#EXTINF:-1 group-title="SK/CZ" tvg-logo="https://pbs.twimg.com/profile_images/1965439794336444416/P8UCkh38.jpg", Televize Seznam
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/129.0.6668.81 Mobile Safari/537.36 Android TV 11 Chrome Webview 129
+http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/176336
+#EXTINF:-1 group-title="SK/CZ" tvg-logo="https://staticeu.sweet.tv/images/cache/channel_icons/BCZQMIBC/819-cs-film-hd.png",CS Film
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/129.0.6668.81 Mobile Safari/537.36 Android TV 11 Chrome Webview 129
+http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/176283
+#EXTINF:40 group-title="SK/CZ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfgYZRk_v_LUTIsPzRPLFLrkR9zqsbL57M3Q&s", Nova
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/129.0.6668.81 Mobile Safari/537.36 Android TV 11 Chrome Webview 129
+http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/22208
+#EXTINF:-1 tvg-logo="https://staticeu.sweet.tv/images/cache/channel_icons/BAASAIQ=/1-nova-international-hd.png",NOVA INT.
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/129.0.6668.81 Mobile Safari/537.36 Android TV 11 Chrome Webview 129
+http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/166043
+#EXTINF:-1 group-title="SK/CZ" tvg-logo="https://gcp-static.sweet.tv/images/v2/icons/channels/v2/2006.webp",NOVA ACTION
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/129.0.6668.81 Mobile Safari/537.36 Android TV 11 Chrome Webview 129
+http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/22210
+#EXTINF:-1 group-title="SK/CZ" tvg-logo="https://staticeu.sweet.tv/images/cache/channel_icons/BABCAIQ=/2-nova-gold-hd.png", Nova Gold
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/129.0.6668.81 Mobile Safari/537.36 Android TV 11 Chrome Webview 129
+http://line.rs6ott.com:80/1badce2bef/a5f5b18ee733/98206
+#EXTINF:-1 group-title="SK/CZ" tvg-logo="https://staticeu.sweet.tv/images/cache/channel_icons/BD5AGIBC/506-nova-cinema-hd.png", Nova Cinema HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/129.0.6668.81 Mobile Safari/537.36 Android TV 11 Chrome Webview 129
+http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/176320
+#EXTINF:43 group-title="SK/CZ" tvg-logo="https://staticeu.sweet.tv/images/cache/channel_icons/BD4QGIBC/505-nova-fun-hd.png", NOVA FUN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/129.0.6668.81 Mobile Safari/537.36 Android TV 11 Chrome Webview 129
+http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/35345
+#EXTINF:45 group-title="SK/CZ" tvg-logo="https://staticeu.sweet.tv/images/cache/channel_icons/BD6QGIBC/509-nova-lady-hd.png", Nova Lady
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/129.0.6668.81 Mobile Safari/537.36 Android TV 11 Chrome Webview 129
+http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/176322
+#EXTINF:-1 group-title="SK/CZ" tvg-logo="https://staticeu.sweet.tv/images/cache/channel_icons/BDXQKIBC/751-prima-hd.png", Prima
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/129.0.6668.81 Mobile Safari/537.36 Android TV 11 Chrome Webview 129
+http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/176326
+#EXTINF:-1 group-title="SK/CZ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5xNYREn1ZcObfpOM3cT-FHj5btyn9mAnl9A&s", PRIMA MAX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/129.0.6668.81 Mobile Safari/537.36 Android TV 11 Chrome Webview 129
+http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/22213
+#EXTINF:35 group-title="SK/CZ" tvg-logo="https://staticeu.sweet.tv/images/cache/channel_icons/BDRAMIBC/866-prima-krimi-hd.png", Prima KRIMI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/129.0.6668.81 Mobile Safari/537.36 Android TV 11 Chrome Webview 129
+http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/166051
+#EXTINF:-1 group-title="SK/CZ" tvg-logo="https://staticeu.sweet.tv/images/cache/channel_icons/BDPQMIBC/863-prima-cool-hd.png", Prima COOL SK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/129.0.6668.81 Mobile Safari/537.36 Android TV 11 Chrome Webview 129
+http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/166050
+#EXTINF:-1 group-title="SK/CZ" tvg-logo="https://staticeu.sweet.tv/images/cache/channel_icons/BDYQKIBC/753-prima-love-hd.png", Prima Love
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/129.0.6668.81 Mobile Safari/537.36 Android TV 11 Chrome Webview 129
+http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/166052
+#EXTINF:22 group-title="SK/CZ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_64lHs4BQv0_Du5OMKOcsVWFnL2xU6I3BNw&s", Prima Show
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/129.0.6668.81 Mobile Safari/537.36 Android TV 11 Chrome Webview 129
+http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/176330
+#EXTINF:-1 group-title="SK/CZ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQD86ItY8BT3JWEX4BnjA7ShJi7M1yN-po6qg&s", PRIMA ZOOM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/129.0.6668.81 Mobile Safari/537.36 Android TV 11 Chrome Webview 129
+http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/176332
+#EXTINF:-1 group-title="SK/CZ" tvg-logo="https://cmesk-ott-images-svod.ssl.cdn.cra.cz/010f9f37-7bfb-40ea-ad01-2aa807cbf522.png", Nova Sport 1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/129.0.6668.81 Mobile Safari/537.36 Android TV 11 Chrome Webview 129
+http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/22647
+#EXTINF:-1 group-title="SK/CZ" tvg-logo="https://cmesk-ott-images-svod.ssl.cdn.cra.cz/ea39fa80-634c-4ecb-8add-56ed932ba2ac.png", Nova Sport 2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/129.0.6668.81 Mobile Safari/537.36 Android TV 11 Chrome Webview 129
+http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/74625
+#EXTINF:-1 group-title="SK/CZ" tvg-logo="https://cmesk-ott-images-svod.ssl.cdn.cra.cz/e16e9e04-84a6-44e1-8f7a-dd0168571704.png", Nova Sport 3 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/129.0.6668.81 Mobile Safari/537.36 Android TV 11 Chrome Webview 129
+http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/83768
+#EXTINF:-1 group-title="SK/CZ" tvg-logo="https://cmesk-ott-images-svod.ssl.cdn.cra.cz/e7160974-cb3d-43c5-8e81-aa0c317ce444.png",Nova Sport 4 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/129.0.6668.81 Mobile Safari/537.36 Android TV 11 Chrome Webview 129
+http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/83767
+#EXTINF:-1 group-title="SK/CZ" tvg-logo="https://cmesk-ott-images-svod.ssl.cdn.cra.cz/95130729-ae40-4126-b894-102bf62c1cd7.png",Nova Sport 5 HD (SK)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/129.0.6668.81 Mobile Safari/537.36 Android TV 11 Chrome Webview 129
+http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/162885
+#EXTINF:-1 group-title="SK/CZ" tvg-logo="https://cmesk-ott-images-svod.ssl.cdn.cra.cz/8d80a3b7-e321-490e-b6d4-fed0c1c7d22b.png",Nova Sport 6 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/129.0.6668.81 Mobile Safari/537.36 Android TV 11 Chrome Webview 129
+http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/162887
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/XD3rtUVnogU_Cy1CUS9Y7Q1jmesBNJ1-Lzih2Cslh-_ZWacSpdWVB_ICwwWWkEo07Lgxwh_a2Q=s900-c-k-c0x00ffffff-no-rj",Oneplay Sport 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/129.0.6668.81 Mobile Safari/537.36 Android TV 11 Chrome Webview 129
+http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/20713
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/XD3rtUVnogU_Cy1CUS9Y7Q1jmesBNJ1-Lzih2Cslh-_ZWacSpdWVB_ICwwWWkEo07Lgxwh_a2Q=s900-c-k-c0x00ffffff-no-rj",Oneplay Sport 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/129.0.6668.81 Mobile Safari/537.36 Android TV 11 Chrome Webview 129
+http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/84428
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/XD3rtUVnogU_Cy1CUS9Y7Q1jmesBNJ1-Lzih2Cslh-_ZWacSpdWVB_ICwwWWkEo07Lgxwh_a2Q=s900-c-k-c0x00ffffff-no-rj",Oneplay Sport 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/129.0.6668.81 Mobile Safari/537.36 Android TV 11 Chrome Webview 129
+http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/35341
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/XD3rtUVnogU_Cy1CUS9Y7Q1jmesBNJ1-Lzih2Cslh-_ZWacSpdWVB_ICwwWWkEo07Lgxwh_a2Q=s900-c-k-c0x00ffffff-no-rj",Oneplay Sport 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/129.0.6668.81 Mobile Safari/537.36 Android TV 11 Chrome Webview 129
+http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/194173
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/dVHa0mlnATcYnpmhSNMwDMiOv2lFLMd04FWLfjOoaxzA6Xeqfsa8W-2Xe29g97zKsR84Tfdo3g=s900-c-k-c0x00ffffff-no-rj",Sporty TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/129.0.6668.81 Mobile Safari/537.36 Android TV 11 Chrome Webview 129
+http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/189851
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/tZK5_A4hHFZ_Oa1SWwpSs-VSOokWu36VdZWeSMfBv0xUzyofmEJi-OARzsV2Xr-JWaomvKLv2g=s900-c-k-c0x00ffffff-no-rj",KHL PRIME
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/129.0.6668.81 Mobile Safari/537.36 Android TV 11 Chrome Webview 129
+http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/16804
+#EXTINF:-1 group-title="SK/CZ" tvg-logo="https://telly.cz/wp-content/themes/telly/dist/images/channel/premier-sport-long-11.png",PREMIER SPORT 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/129.0.6668.81 Mobile Safari/537.36 Android TV 11 Chrome Webview 129
+http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/166114
+#EXTINF:-1 group-title="SK/CZ" tvg-logo="https://telly.cz/wp-content/themes/telly/dist/images/channel/premier-sport-2-long.png",PREMIER SPORT 2 cz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/129.0.6668.81 Mobile Safari/537.36 Android TV 11 Chrome Webview 129
+http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/166111
+#EXTINF:-1 group-title="SK/CZ" tvg-logo="https://telly.cz/wp-content/themes/telly/dist/images/channel/premier-sport-3-long-2.png",PREMIER SPORT 3 cz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/129.0.6668.81 Mobile Safari/537.36 Android TV 11 Chrome Webview 129
+http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/85402
+#EXTINF:-1 group-title="SK/CZ" tvg-logo="https://cmesk-ott-images-svod.ssl.cdn.cra.cz/e89e36a5-6192-463f-88d6-e56f37425a80.png",CANAL+ Sport (SK)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/129.0.6668.81 Mobile Safari/537.36 Android TV 11 Chrome Webview 129
+http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/35344
+#EXTINF:-1 group-title="SK/CZ" tvg-logo="https://cmesk-ott-images-svod.ssl.cdn.cra.cz/565ce14b-59b6-4a44-b0bc-50304dc04c0c.png",CANAL+ Sport 2 (SK)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/129.0.6668.81 Mobile Safari/537.36 Android TV 11 Chrome Webview 129
+http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/116823
+#EXTINF:-1 group-title="SK/CZ" tvg-logo="https://cmesk-ott-images-svod.ssl.cdn.cra.cz/dbf47a87-6ca8-4c76-a638-1d221929c355.png",Canal plus Sport 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/129.0.6668.81 Mobile Safari/537.36 Android TV 11 Chrome Webview 129
+http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/116829
+#EXTINF:-1 group-title="SK/CZ" tvg-logo="https://cmesk-ott-images-svod.ssl.cdn.cra.cz/1bfb2aa6-87de-4335-b994-45c904250511.png",Canal plus Sport 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/129.0.6668.81 Mobile Safari/537.36 Android TV 11 Chrome Webview 129
+http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/116830
+#EXTINF:-1 group-title="SK/CZ" tvg-logo="https://cmesk-ott-images-svod.ssl.cdn.cra.cz/e882c3dd-ef2e-46ca-a174-6b38475fe8bd.png",Canal plus Sport 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/129.0.6668.81 Mobile Safari/537.36 Android TV 11 Chrome Webview 129
+http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/116831
+#EXTINF:-1 group-title="SK/CZ" tvg-logo="https://cmesk-ott-images-svod.ssl.cdn.cra.cz/be086d1e-fb83-47ce-ac96-eb33e8c26be5.png",Canal plus Sport 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/129.0.6668.81 Mobile Safari/537.36 Android TV 11 Chrome Webview 129
+http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/116832
+#EXTINF:-1 group-title="SK/CZ" tvg-logo="https://cmesk-ott-images-svod.ssl.cdn.cra.cz/0f8d4312-5216-46a6-b90e-be7bcba4485d.png",Canal plus Sport 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/129.0.6668.81 Mobile Safari/537.36 Android TV 11 Chrome Webview 129
+http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/170401
+#EXTINF:-1 group-title="SK/CZ" tvg-logo="https://cmesk-ott-images-svod.ssl.cdn.cra.cz/c6920d04-c440-446f-9446-789150b213fb.png",Canal plus Sport 8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/129.0.6668.81 Mobile Safari/537.36 Android TV 11 Chrome Webview 129
+http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/170400
+#EXTINF:46 group-title="SK/CZ" tvg-logo="https://staticeu.sweet.tv/images/cache/channel_icons/BDLQOIBC/983-sport-1-hd.png", Sport1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/129.0.6668.81 Mobile Safari/537.36 Android TV 11 Chrome Webview 129
+http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/33657
+#EXTINF:-1 group-title="SK/CZ" tvg-logo="https://gcp-static.sweet.tv/images/v2/icons/channels/v2/984.webp",Sport2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/129.0.6668.81 Mobile Safari/537.36 Android TV 11 Chrome Webview 129
+http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/33658
+#EXTINF:24 group-title="SK/CZ" tvg-logo="https://gcp-static.sweet.tv/images/v2/icons/channels/v2/817.webp", JOJ ŠPORT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/129.0.6668.81 Mobile Safari/537.36 Android TV 11 Chrome Webview 129
+http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/166015
+#EXTINF:-1 group-title="SK/CZ" tvg-logo="https://gcp-static.sweet.tv/images/v2/icons/channels/v2/2675.webp",JOJ Šport 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/129.0.6668.81 Mobile Safari/537.36 Android TV 11 Chrome Webview 129
+http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/166074
+#EXTINF:-1 group-title="SK/CZ" tvg-logo="https://gcp-static.sweet.tv/images/v2/icons/channels/v2/834.webp",ARENA SPORT 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/129.0.6668.81 Mobile Safari/537.36 Android TV 11 Chrome Webview 129
+http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/176274
+#EXTINF:-1 group-title="SK/CZ" tvg-logo="https://gcp-static.sweet.tv/images/v2/icons/channels/v2/835.webp",ARENA SPORT 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/129.0.6668.81 Mobile Safari/537.36 Android TV 11 Chrome Webview 129
+http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/176275
+#EXTINF:-1 group-title="SK/CZ" tvg-logo="https://gcp-static.sweet.tv/images/v2/icons/channels/v2/836.webp", Auto Motor Sport
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/129.0.6668.81 Mobile Safari/537.36 Android TV 11 Chrome Webview 129
+http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/165965
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1902278201260621824/APfWuAQU.jpg",Golf Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/129.0.6668.81 Mobile Safari/537.36 Android TV 11 Chrome Webview 129
+http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/166000
+#EXTINF:-1 group-title="SK/CZ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZBsSa51kl7efwp7G6MW-CK3YNWtv8xg_KkQ&s",France 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/129.0.6668.81 Mobile Safari/537.36 Android TV 11 Chrome Webview 129
+http://line.rs6ott.com:80/1badce2bef/a5f5b18ee733/1438017
+#EXTINF:-1 group-title="SK/CZ" tvg-logo="https://gcp-static.sweet.tv/images/v2/icons/channels/v2/1236.webp",Eurosport
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/129.0.6668.81 Mobile Safari/537.36 Android TV 11 Chrome Webview 129
+http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/165988
+#EXTINF:-1 group-title="SK/CZ" tvg-logo="https://gcp-static.sweet.tv/images/v2/icons/channels/v2/1237.webp",Eurosport2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/129.0.6668.81 Mobile Safari/537.36 Android TV 11 Chrome Webview 129
+http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/165989
+#EXTINF:-1 group-title="SK/CZ" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lyTHtvWHdKuyr86jBWSpMpplIrqxU0mfdhKEOeeiVUPw=s160-c-k-c0x00ffffff-no-rj",FIGHTBOX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/129.0.6668.81 Mobile Safari/537.36 Android TV 11 Chrome Webview 129
+http://line.rs6ott.com:80/1badce2bef/a5f5b18ee733/1438014
+#EXTINF:33 group-title="SK/CZ" tvg-logo="https://staticeu.sweet.tv/images/cache/channel_icons/BC7QMIBC/831-ct-sport-hd.png", ČT Sport
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/129.0.6668.81 Mobile Safari/537.36 Android TV 11 Chrome Webview 129
+http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/165707
+#EXTINF:20 group-title="SK/CZ" tvg-logo="https://staticeu.sweet.tv/images/cache/channel_icons/BDJAMIBC/850-sport-hd.png", RTVS SPORT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/129.0.6668.81 Mobile Safari/537.36 Android TV 11 Chrome Webview 129
+http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/166059
+#EXTINF:-1 group-title="SK/CZ" tvg-logo="https://gcp-static.sweet.tv/images/v2/icons/channels/v2/1348.webp",Cartoon Network HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/129.0.6668.81 Mobile Safari/537.36 Android TV 11 Chrome Webview 129
+http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/176341
+#EXTINF:-1 tvg-logo="https://staticeu.sweet.tv/images/cache/channel_icons/BCPQUIBC/1311-nicktoons.png",Nicktoons
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/129.0.6668.81 Mobile Safari/537.36 Android TV 11 Chrome Webview 129
+http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/166042
+#EXTINF:-1 tvg-logo="https://staticeu.sweet.tv/images/cache/channel_icons/BDLASIBC/1238-cartoonito-hd.png",Cartoonito
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/129.0.6668.81 Mobile Safari/537.36 Android TV 11 Chrome Webview 129
+http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/176281
+#EXTINF:25 group-title="SK/CZ" tvg-logo="https://staticeu.sweet.tv/images/cache/channel_icons/BCXQMIBC/815-jojko-hd.png", JOJKO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/129.0.6668.81 Mobile Safari/537.36 Android TV 11 Chrome Webview 129
+http://88.212.15.47/live/test_jojko_25p/playlist.m3u8
+#EXTINF:26 group-title="SK/CZ" tvg-logo="https://staticeu.sweet.tv/images/cache/channel_icons/BDKQKIBC/725-rik-tv-hd.png", TV Rik
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/129.0.6668.81 Mobile Safari/537.36 Android TV 11 Chrome Webview 129
+http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/166058
+#EXTINF:27 group-title="SK/CZ" tvg-logo="https://staticeu.sweet.tv/images/cache/channel_icons/BDEASIBC/1224-lala-tv-hd.png", Lala TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/129.0.6668.81 Mobile Safari/537.36 Android TV 11 Chrome Webview 129
+http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/166020
+#EXTINF:-1 group-title="SK/CZ" tvg-logo="https://staticeu.sweet.tv/images/cache/channel_icons/BCQAMIBC/800-disney-junior.png",Disney Junior
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/129.0.6668.81 Mobile Safari/537.36 Android TV 11 Chrome Webview 129
+http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/165983
+#EXTINF:13 group-title="SK/CZ" tvg-logo="https://staticeu.sweet.tv/images/cache/channel_icons/BDLAOIBC/982-minimax.png", MINIMAX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/129.0.6668.81 Mobile Safari/537.36 Android TV 11 Chrome Webview 129
+http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/166031
+#EXTINF:13 group-title="SK/CZ" tvg-logo="https://staticeu.sweet.tv/images/cache/channel_icons/BDKQOIBC/981-jimjam.png", Jim Jam
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/129.0.6668.81 Mobile Safari/537.36 Android TV 11 Chrome Webview 129
+http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/166008
+#EXTINF:-1 group-title="SK/CZ" tvg-logo="https://gcp-static.sweet.tv/images/v2/icons/channels/v2/1032.webp",Disney Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/129.0.6668.81 Mobile Safari/537.36 Android TV 11 Chrome Webview 129
+http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/165982
+#EXTINF:-1 group-title="SK/CZ" tvg-logo="https://gcp-static.sweet.tv/images/v2/icons/channels/v2/1299.webp", duck.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/129.0.6668.81 Mobile Safari/537.36 Android TV 11 Chrome Webview 129
+http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/165986
+#EXTINF:-1 group-title="SK/CZ" tvg-logo="https://gcp-static.sweet.tv/images/v2/icons/channels/v2/1310.webp",Nick Jr
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/129.0.6668.81 Mobile Safari/537.36 Android TV 11 Chrome Webview 129
+http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/166040
+#EXTINF:-1 group-title="SK/CZ" tvg-logo="https://gcp-static.sweet.tv/images/v2/icons/channels/v2/1309.webp",Nickelodeon
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/129.0.6668.81 Mobile Safari/537.36 Android TV 11 Chrome Webview 129
+http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/166041
+#EXTINF:-1 group-title="SK/CZ" tvg-logo="https://cdn.imgbin.com/13/25/12/imgbin-viasat-explore-viasat-history-logo-viasat-nature-doa-0cWT2R0bK7T4deFYtC9YAybsb.jpg",VIASAT EXPLORE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/129.0.6668.81 Mobile Safari/537.36 Android TV 11 Chrome Webview 129
+http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/176343
+#EXTINF:-1 group-title="SK/CZ" tvg-logo="https://gcp-static.sweet.tv/images/v2/icons/channels/v2/995.webp",Viasat History
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/129.0.6668.81 Mobile Safari/537.36 Android TV 11 Chrome Webview 129
+http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/176344
+#EXTINF:-1 group-title="SK/CZ" tvg-logo="https://gcp-static.sweet.tv/images/v2/icons/channels/v2/997.webp",Viasat Nature
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/129.0.6668.81 Mobile Safari/537.36 Android TV 11 Chrome Webview 129
+http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/176345
+#EXTINF:-1 tvg-logo="https://staticeu.sweet.tv/images/cache/channel_icons/BDQAOIBC/992-history-2-hd.png",History2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/129.0.6668.81 Mobile Safari/537.36 Android TV 11 Chrome Webview 129
+http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/176269
+#EXTINF:-1 tvg-logo="https://staticeu.sweet.tv/images/cache/channel_icons/BDUAMIBC/872-history-hd.png",History chanells
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/129.0.6668.81 Mobile Safari/537.36 Android TV 11 Chrome Webview 129
+http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/166004
+#EXTINF:-1 group-title="SK/CZ" tvg-logo="https://gcp-static.sweet.tv/images/v2/icons/channels/v2/820.webp",CS History
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/129.0.6668.81 Mobile Safari/537.36 Android TV 11 Chrome Webview 129
+http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/176284
+#EXTINF:-1 group-title="SK/CZ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzZ55wg2Mv0JSNoieemswTcgqIOafEJO3Q7g&s", CS Mystery
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/129.0.6668.81 Mobile Safari/537.36 Android TV 11 Chrome Webview 129
+http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/176285
+#EXTINF:-1 group-title="SK/CZ" tvg-logo="https://yt3.googleusercontent.com/vQl0f8aAyYdhpJQ8hl0fJBT8EizPCoF_81wT1LuVk0ciR_x1AhtNEp13gZBWwWIxmrPyry_Y8lM=s160-c-k-c0x00ffffff-no-rj", Love Nature 4K
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/129.0.6668.81 Mobile Safari/537.36 Android TV 11 Chrome Webview 129
+http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/166022
+#EXTINF:-1 group-title="SK/CZ" tvg-logo="https://gcp-static.sweet.tv/images/v2/icons/channels/v2/805.webp", National Geographic
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/129.0.6668.81 Mobile Safari/537.36 Android TV 11 Chrome Webview 129
+http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/166038
+#EXTINF:-1 group-title="SK/CZ" tvg-logo="https://gcp-static.sweet.tv/images/v2/icons/channels/v2/804.webp", National Geographic Wild
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/129.0.6668.81 Mobile Safari/537.36 Android TV 11 Chrome Webview 129
+http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/166039
+#EXTINF:-1 tvg-logo="https://staticeu.sweet.tv/images/cache/channel_icons/BDQQOIBC/993-spektrum-home-hd.png",Spektrum home
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/129.0.6668.81 Mobile Safari/537.36 Android TV 11 Chrome Webview 129
+http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/166068
+#EXTINF:-1 tvg-logo="https://staticeu.sweet.tv/images/cache/channel_icons/BDHASIBC/1230-travel-channel-hd.png",Travel Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/129.0.6668.81 Mobile Safari/537.36 Android TV 11 Chrome Webview 129
+http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/166076
+#EXTINF:-1 group-title="SK/CZ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStzirXMV2qNcRu5mFl806ZfrHzrf1LAN8XWw&s", DOCUBOX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/129.0.6668.81 Mobile Safari/537.36 Android TV 11 Chrome Webview 129
+http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/176291
+#EXTINF:-1 group-title="SK/CZ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAQYw811JQq51f1oyoSuKD6kFJsIEufoNfbw&s", FISHING and HUNTING (UPC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/129.0.6668.81 Mobile Safari/537.36 Android TV 11 Chrome Webview 129
+http://line.rs6ott.com:80/1badce2bef/a5f5b18ee733/98194
+#EXTINF:-1 group-title="SK/CZ" tvg-logo="https://grgopitic.github.io/piconstv/all/discovery.png", DISCOVERY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/129.0.6668.81 Mobile Safari/537.36 Android TV 11 Chrome Webview 129
+http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/165981
+#EXTINF:-1 group-title="SK/CZ" tvg-logo="https://gcp-static.sweet.tv/images/v2/icons/channels/v2/1322.webp",BBC EARTH
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/129.0.6668.81 Mobile Safari/537.36 Android TV 11 Chrome Webview 129
+https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
+#EXTINF:-1 group-title="SK/CZ" tvg-logo="https://play-lh.googleusercontent.com/2Ln9ESztz_riHBtv2p314MGLDnQ8j_jmxlTYgPoB88lxebZ3IU6MH08Gb5ezZgzu7mEu=s96-rw",TRAVELXP
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/129.0.6668.81 Mobile Safari/537.36 Android TV 11 Chrome Webview 129
+http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/33663
+#EXTINF:-1 group-title="SK/CZ" tvg-logo="https://gcp-static.sweet.tv/images/v2/icons/channels/v2/994.webp",SPEKTRUM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/129.0.6668.81 Mobile Safari/537.36 Android TV 11 Chrome Webview 129
+http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/166067
+#EXTINF:-1 group-title="SK/CZ" tvg-logo="https://staticeu.sweet.tv/images/cache/channel_icons/BDTQMIBC/871-crime-and-investigation.png", Crime and Investigation
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/129.0.6668.81 Mobile Safari/537.36 Android TV 11 Chrome Webview 129
+http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/165974
+#EXTINF:-1 tvg-logo="https://staticeu.sweet.tv/images/cache/channel_icons/BDJASIBC/1234-id-xtra-hd.png",ID
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/129.0.6668.81 Mobile Safari/537.36 Android TV 11 Chrome Webview 129
+http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/166006
+#EXTINF:-1 group-title="SK/CZ" tvg-logo="https://i.postimg.cc/FznHkKPh/persianamusic.png", PERSIANA Music
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/129.0.6668.81 Mobile Safari/537.36 Android TV 11 Chrome Webview 129
+https://musichls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 group-title="SK/CZ" tvg-logo="https://gcp-static.sweet.tv/images/v2/icons/channels/v2/839.webp", Óčko Expres
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/129.0.6668.81 Mobile Safari/537.36 Android TV 11 Chrome Webview 129
+http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/176348
+#EXTINF:-1 group-title="SK/CZ" tvg-logo="https://gcp-static.sweet.tv/images/v2/icons/channels/v2/841.webp", Óčko STAR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/129.0.6668.81 Mobile Safari/537.36 Android TV 11 Chrome Webview 129
+http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/176349
+#EXTINF:-1 group-title="SK/CZ" tvg-logo="https://gcp-static.sweet.tv/images/v2/icons/channels/v2/840.webp", Óčko
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/129.0.6668.81 Mobile Safari/537.36 Android TV 11 Chrome Webview 129
+http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/166046
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC8PkQBxBGgN6KfT8DAcO44ag0IEr9rYoKPA&s",Óčko BLACK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/129.0.6668.81 Mobile Safari/537.36 Android TV 11 Chrome Webview 129
+http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/176347
+#EXTINF:-1 group-title="SK/CZ" tvg-logo="https://grgopitic.github.io/piconstv/all/mtvhits.png", MTV Hits
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/129.0.6668.81 Mobile Safari/537.36 Android TV 11 Chrome Webview 129
+http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/166036
+#EXTINF:-1 group-title="SK/CZ" tvg-logo="https://i.imgur.com/FD6eQI3.png", MTV CLUB
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/129.0.6668.81 Mobile Safari/537.36 Android TV 11 Chrome Webview 129
+http://212.102.38.45/live/test_mtv_dance_1200_atk/playlist.m3u8
+#EXTINF:-1 group-title="SK/CZ" tvg-logo="https://gcp-static.sweet.tv/images/v2/icons/channels/v2/1306.webp", MTV00s
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/129.0.6668.81 Mobile Safari/537.36 Android TV 11 Chrome Webview 129
+http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/166033
+#EXTINF:22 group-title="SK/CZ" tvg-logo="https://gcp-static.sweet.tv/images/v2/icons/channels/v2/1307.webp" ,MTV90s
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/129.0.6668.81 Mobile Safari/537.36 Android TV 11 Chrome Webview 129
+http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/166035
+#EXTINF:-1 group-title="SK/CZ" tvg-logo="https://gcp-static.sweet.tv/images/v2/icons/channels/v2/1304.webp", MTV80s
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/129.0.6668.81 Mobile Safari/537.36 Android TV 11 Chrome Webview 129
+http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/166034
+#EXTINF:-1 group-title="SK/CZ" tvg-logo="https://gcp-static.sweet.tv/images/v2/icons/channels/v2/1307.webp", MTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/129.0.6668.81 Mobile Safari/537.36 Android TV 11 Chrome Webview 129
+http://line.rs6ott.com:80/1badce2bef/a5f5b18ee733/98200
+#EXTINF:-1 group-title="SK/CZ" tvg-logo="https://play-lh.googleusercontent.com/HpI_ht7j7rZxUvmbTZ0VXv9STnz0xG_6d8Eo-O135C7IQETSq0CP5R-2lvgZ0KLUbYc=w240-h480-rw",Showtime Dance
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/129.0.6668.81 Mobile Safari/537.36 Android TV 11 Chrome Webview 129
+http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/166073
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/vNBqefJoXMgi9uctKjbtn8F1jSEm3idZQwgU4qSQ7pj4RCSXACYZy_Q3sEfPj5JOE2hZ6f6j=s900-c-k-c0x00ffffff-no-rj",Life TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/129.0.6668.81 Mobile Safari/537.36 Android TV 11 Chrome Webview 129
+http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/166021
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlUXu7Y2CPE4rnMGvuN8Qpkp_c8VTQhPHgGmaXj5r7CCTSA8rabMOJ8x8pd7hLJj7Y0RU&usqp=CAU",Polar
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/129.0.6668.81 Mobile Safari/537.36 Android TV 11 Chrome Webview 129
+http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/166049
+#EXTINF:-1 tvg-logo="https://staticeu.sweet.tv/images/cache/channel_icons/BCYAYIBC/1584-skvele-tv-hd.png",SKVELÉ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/129.0.6668.81 Mobile Safari/537.36 Android TV 11 Chrome Webview 129
+http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/166062
+#EXTINF:-1 tvg-logo="https://staticeu.sweet.tv/images/cache/channel_icons/BDHQSIBC/1231-food-network-hd.png",Food network
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/129.0.6668.81 Mobile Safari/537.36 Android TV 11 Chrome Webview 129
+http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/176303
+#EXTINF:-1 group-title="SK/CZ" tvg-logo="http://103.176.90.118/picons/logos/logos/mnamtv.png" , TV Mňam
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/129.0.6668.81 Mobile Safari/537.36 Android TV 11 Chrome Webview 129
+http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/176314
