@@ -10,7 +10,7 @@ url-tvg="https://raw.githubusercontent.com/370network/skylink-xmltv/main/a3b_a1.
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_13"
 
 # Slovenské TV
-#EXTINF:-1 group-title="Slovenské TV" tvg-logo="https://staticeu.sweet.tv/images/cache/channel_icons/BC4AOIBC/952-markiza-hd.png", Markiza HD
+#EXTINF:-1 tvg-id="336e46bf4276e77a716e494c6285d5db" group-title="Slovenské TV" tvg-logo="https://staticeu.sweet.tv/images/cache/channel_icons/BC4AOIBC/952-markiza-hd.png", Markiza HD
 http://88.212.15.47/live/test_markiza_25p/playlist.m3u8
 
 #EXTINF:-1 group-title="Slovenské TV" tvg-logo="https://staticeu.sweet.tv/images/cache/channel_icons/BCXAMIBC/814-joj-hd.png", TV JOJ HD
