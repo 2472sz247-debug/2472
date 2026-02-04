@@ -150,10 +150,10 @@ http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/83769?output=hls
 #EXTINF:-1 group-title="Šport" tvg-logo="https://telly.cz/wp-content/themes/telly/dist/images/channel/premier-sport-3-long-2.png", Premier Sport 3 cz
 http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/85402?output=hls
 
-#EXTINF:-1 group-title="Šport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgg3YwiejJOINEsDA5sJEbR9uxer9cXD4-13WkZ1AZag&s=10", Eurosport 1 FHD
+#EXTINF:-1 tvg-id="0a1b2c3d4e5f69788796a5b4c3d2e1f" group-title="Šport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgg3YwiejJOINEsDA5sJEbR9uxer9cXD4-13WkZ1AZag&s=10", Eurosport 1 FHD
 http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/22196?output=hls
 
-#EXTINF:-1 group-title="Šport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYPmUztuIVl-v60M390dvFI7DR3QCcyM7c4QOD77nCGA&s=10", Eurosport 2 FHD
+#EXTINF:-1 tvg-id="1f2e3d4c5b6a79888796a5b4c3d2e1f" group-title="Šport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYPmUztuIVl-v60M390dvFI7DR3QCcyM7c4QOD77nCGA&s=10", Eurosport 2 FHD
 http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/22197?output=hls
 
 #EXTINF:-1 tvg-id="09fc492d319c8813389e11c167b3a053" group-title="Šport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEMf5IhbYfIN5q9LanMjwev4DLpCvV1E_7EOHLjC69bg3eLDL8cLfqurk&s=10", RTVS SPORT HD
@@ -187,34 +187,34 @@ http://88.212.15.47/live/test_joj_sport_hd_hevc/playlist.m3u8
 http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/166074?output=hls
 
 # Filmy
-#EXTINF:-1 group-title="Filmy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0_ktqjE2YxjUcB_fju_ljR08_vcBHxmNMnrj_q-s_J1Y9jD-U00g9vEMTtF9NG2ldAYU&usqp=CAU", CANAL+ Action
+#EXTINF:-1 tvg-id="c27ae0d760a6c999ab212f93c764ae4e" group-title="Filmy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0_ktqjE2YxjUcB_fju_ljR08_vcBHxmNMnrj_q-s_J1Y9jD-U00g9vEMTtF9NG2ldAYU&usqp=CAU", CANAL+ Action
 http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/35340?output=hls
 
-#EXTINF:-1 group-title="Filmy" tvg-logo="https://i.pinimg.com/736x/8b/02/00/8b020050690f955ccb306cdf51324aea.jpg", HBO HD
+#EXTINF:-1 tvg-id="4d07ad6d68bbab03d4d901319f13116a" group-title="Filmy" tvg-logo="https://i.pinimg.com/736x/8b/02/00/8b020050690f955ccb306cdf51324aea.jpg", HBO HD
 http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/177798?output=hls
 
 #EXTINF:-1 group-title="Filmy" tvg-logo="https://teleprogram.sk/tv/hbo2.png", HBO2 HD
 http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/177797?output=hls
 
-#EXTINF:-1 group-title="Filmy" tvg-logo="https://teleprogram.sk/tv/hbo3.png", HBO3 HD
+#EXTINF:-1 tvg-id="a4ba4cdb8d6a99e565fa5470f99a1949" group-title="Filmy" tvg-logo="https://teleprogram.sk/tv/hbo3.png", HBO3 HD
 http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/177796?output=hls
 
-#EXTINF:-1 group-title="Filmy" tvg-logo="https://staticeu.sweet.tv/images/cache/channel_icons/BDOAOIBC/988-amc-hd.png", AMC SK
+#EXTINF:-1 tvg-id="72edb20d435c8baafda462f427edb723" group-title="Filmy" tvg-logo="https://staticeu.sweet.tv/images/cache/channel_icons/BDOAOIBC/988-amc-hd.png", AMC SK
 http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/165959?output=hls
 
-#EXTINF:-1 group-title="Filmy" tvg-logo="https://staticeu.sweet.tv/images/cache/channel_icons/BCHAQIBC/1038-filmbox-premium-hd.png", Filmbox Premium HD
+#EXTINF:-1 tvg-id="c3f5686e3ee054e815be2b2d62e573d4" group-title="Filmy" tvg-logo="https://staticeu.sweet.tv/images/cache/channel_icons/BCHAQIBC/1038-filmbox-premium-hd.png", Filmbox Premium HD
 http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/165994?output=hls
 
 #EXTINF:-1 group-title="Filmy" tvg-logo="https://staticeu.sweet.tv/images/cache/channel_icons/BCAQQIBC/1025-filmbox-extra-hd.png", Filmbox Extra HD
 http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/176299?output=hls
 
-#EXTINF:-1 group-title="Filmy" tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple116/v4/a4/63/de/a463dec9-8fe7-a83f-7d68-15d0f4d6230d/AppIcon-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg", Filmbox Stars
+#EXTINF:-1 tvg-id="ad99a65b8a018d45a26debf94c20bc1f" group-title="Filmy" tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple116/v4/a4/63/de/a463dec9-8fe7-a83f-7d68-15d0f4d6230d/AppIcon-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg", Filmbox Stars
 http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/165995?output=hls
 
 #EXTINF:-1 group-title="Filmy" tvg-logo="https://images.seeklogo.com/logo-png/19/2/filmbox-logo-png_seeklogo-194620.png", Filmbox
 http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/165991?output=hls
 
-#EXTINF:-1 group-title="Filmy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaL__Q7mVdDcq88tZfoxw8O556O-nVAAjAlXrFYwC2fQ&s", Filmbox Family
+#EXTINF:-1 tvg-id="6055855c5c76d0e2895c0c6eac31dd59" group-title="Filmy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaL__Q7mVdDcq88tZfoxw8O556O-nVAAjAlXrFYwC2fQ&s", Filmbox Family
 http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/165993?output=hls
 
 #EXTINF:-1 group-title="Filmy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7H7XBAxRNpioBV5hqG5_rvkijcrsBnxsW9ucm881gKQ&s=10", Filmbox Arthouse
@@ -232,23 +232,23 @@ http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/33662?output=hls
 #EXTINF:-1 group-title="Filmy" tvg-logo="https://static.iptvsrovnani.cz/channels/67af9d55a01da.png", Cinemax2 HD
 http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/35338?output=hls
 
-#EXTINF:-1 group-title="Filmy" tvg-logo="https://staticeu.sweet.tv/images/cache/channel_icons/BCZQMIBC/819-cs-film-hd.png", CS Film
+#EXTINF:-1 tvg-id="e3690b8f5892f1e960df1a54902cc848" group-title="Filmy" tvg-logo="https://staticeu.sweet.tv/images/cache/channel_icons/BCZQMIBC/819-cs-film-hd.png", CS Film
 http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/176283?output=hls
 
-#EXTINF:-1 group-title="Filmy" tvg-logo="https://epicdrama.cz/uploads/cache/opti/bundles/app/images/main/logo.png?1", Epic Drama HD
+#EXTINF:-1 tvg-id="cda8915a6a66e3983f9698829827a594" group-title="Filmy" tvg-logo="https://epicdrama.cz/uploads/cache/opti/bundles/app/images/main/logo.png?1", Epic Drama HD
 http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/35347?output=hls
 
 # Dokumenty
-#EXTINF:-1 group-title="Dokumenty" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEhS4znaL7BVSnkJjr38E43AfootR6dNjCFD-mwMxD2g&s=10", Discovery
+#EXTINF:-1 tvg-id="1a6e3c9b5f2d4a7e8c9b1d0f6a2c3e4b" group-title="Dokumenty" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEhS4znaL7BVSnkJjr38E43AfootR6dNjCFD-mwMxD2g&s=10", Discovery
 http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/165981?output=hls
 
 #EXTINF:-1 group-title="Dokumenty" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReCc4aEak_J1gfLfrJ_JVI5S_YcahF_8VlG70afRrBLQ&s=10", History HD
 http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/166004?output=hls
 
-#EXTINF:-1 group-title="Dokumenty" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_qMnODhq5ufL0-4ue2tJIyoxyBKJcEKdvV0rVuqLImA&s=10", National Geographic HD
+#EXTINF:-1 tvg-id="f543c9d11f2a5e56a6c6615405524a37" group-title="Dokumenty" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_qMnODhq5ufL0-4ue2tJIyoxyBKJcEKdvV0rVuqLImA&s=10", National Geographic HD
 http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/166038?output=hls
 
-#EXTINF:-1 group-title="Dokumenty" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTW-1TkcUcZF1VsPKqzRiJNmxJgXPL-FImXsWScd2rZg&s=10", Nat Geo Wild HD CZ
+#EXTINF:-1 tvg-id="ffa854335dac699cd210185546562f61" group-title="Dokumenty" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTW-1TkcUcZF1VsPKqzRiJNmxJgXPL-FImXsWScd2rZg&s=10", Nat Geo Wild HD CZ
 http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/33666?output=hls
 
 #EXTINF:-1 group-title="Dokumenty" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsfb5Agpmu5wAm-uc1Esf-Psc7NhQdasbXKxj0dfzZXA&s=10", Animal Planet
@@ -257,65 +257,65 @@ http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/165960?output=hls
 #EXTINF:-1 group-title="Dokumenty" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2GgHxkQipyB4WJ_qUIByKfxE8tK9hwhtHH_AvOAYCzA&s", Love Nature HD CZ
 http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/166022?output=hls
 
-#EXTINF:-1 group-title="Dokumenty" tvg-logo="https://yt3.googleusercontent.com/uiaSRk4UcUkLFd4DA7n8cSn5gzSVvsEP66ML3AeZ6DBiHsgUjXBGWUnUQkudtYFO-_U4sFYp=s160-c-k-c0x00ffffff-no-rj", Crime & Investigation
+#EXTINF:-1 tvg-id="2e4c6b8a0d1f3e5c7a9b8d6f4e2c1a" group-title="Dokumenty" tvg-logo="https://yt3.googleusercontent.com/uiaSRk4UcUkLFd4DA7n8cSn5gzSVvsEP66ML3AeZ6DBiHsgUjXBGWUnUQkudtYFO-_U4sFYp=s160-c-k-c0x00ffffff-no-rj", Crime & Investigation
 http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/165974?output=hls
 
-#EXTINF:-1 group-title="Dokumenty" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsS5GX-iaUObe2XZ8shyRTMJZNNqN469ZKaJCecmfSrQ&s=10", CS History
+#EXTINF:-1 tvg-id="e960740fb6ac73b8b55d7767af74aef9" group-title="Dokumenty" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsS5GX-iaUObe2XZ8shyRTMJZNNqN469ZKaJCecmfSrQ&s=10", CS History
 http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/176284?output=hls
 
 #EXTINF:-1 group-title="Dokumenty" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_TP-Fl6xMdL0ZJFdedGdBkQrk49snZTBH4mQU594T9w&s=10", CS Mystery
 http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/176285?output=hls
 
-#EXTINF:-1 group-title="Dokumenty" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMuYNmH_JfdVex1iijuCWVC5H1AtllaHm96w&s", Docubox
+#EXTINF:-1 tvg-id="3d1c49a6ce13916f3b00e19e029362e9" group-title="Dokumenty" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMuYNmH_JfdVex1iijuCWVC5H1AtllaHm96w&s", Docubox
 http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/176291?output=hls
 
-#EXTINF:-1 group-title="Dokumenty" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5j0QMhzy7LMTLNXJHiks6wdX7BT4J5cIRRwu0r5efmw&s", Viasat History HD
+#EXTINF:-1 tvg-id="a389deba6b8516231ee3f18ca5a564a9" group-title="Dokumenty" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5j0QMhzy7LMTLNXJHiks6wdX7BT4J5cIRRwu0r5efmw&s", Viasat History HD
 http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/176344?output=hls
 
-#EXTINF:-1 group-title="Dokumenty" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ3oXEdRSyeFlMmRTYEGLkrGdGaCClzheDS3FS3RWOMw&s", Viasat Explore
+#EXTINF:-1 tvg-id="52fd74227d9f5c75e9cb5f4bccf3f667" group-title="Dokumenty" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ3oXEdRSyeFlMmRTYEGLkrGdGaCClzheDS3FS3RWOMw&s", Viasat Explore
 http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/176343?output=hls
 
-#EXTINF:-1 group-title="Dokumenty" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOwSfkT-NOOpOcCYmA9fwBXzS1BLV3AogUyxOi47rObQ&s=10", Viasat Nature HD
+#EXTINF:-1 tvg-id="760a1f5bd42126949d294eaad76335bc" group-title="Dokumenty" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOwSfkT-NOOpOcCYmA9fwBXzS1BLV3AogUyxOi47rObQ&s=10", Viasat Nature HD
 http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/176345?output=hls
 
 #EXTINF:-1 group-title="Dokumenty" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPpEKUIKgc5SOPSnkTkoFItVTECHkYH3i79hP0Fhes2A&s=10", Viasat True Crime FHD
 http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/279006?output=hls
 
-#EXTINF:-1 group-title="Dokumenty" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7A9re0wUd4v1zYlvWhitAMinYn2UfNRYEd4Dgp-3zQQ&s=10", TLC
+#EXTINF:-1 tvg-id="3a2b1c4d5e6f708192a3b4c5d6e7f809" group-title="Dokumenty" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7A9re0wUd4v1zYlvWhitAMinYn2UfNRYEd4Dgp-3zQQ&s=10", TLC
 http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/166075?output=hls
 
-#EXTINF:-1 group-title="Dokumenty" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBqDYP4vCxJ8liLw1wZoTOpdOtalKO2ssJz9LKLw7msg&s=10", Food Network HD
+#EXTINF:-1 tvg-id="9a8b7c6d5e4f3a2b1c0d1e2f3a4b5c6" group-title="Dokumenty" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBqDYP4vCxJ8liLw1wZoTOpdOtalKO2ssJz9LKLw7msg&s=10", Food Network HD
 http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/176303?output=hls
 
 #EXTINF:-1 group-title="Dokumenty" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYtkPdU6_YegQZ74Vq0XUkJU6VA7NR_wyobIXhf5habA&s=10", Spektrum Home
 http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/166068?output=hls
 
-#EXTINF:-1 group-title="Dokumenty" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOKSvawozknpSgvp9bn6q4wfccIxs0UCrikN-2nYFeKQ&s=10", HGTV
+#EXTINF:-1 tvg-id="7a6b5c4d3e2f1a0987b6c5d4e3f2a1b0" group-title="Dokumenty" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOKSvawozknpSgvp9bn6q4wfccIxs0UCrikN-2nYFeKQ&s=10", HGTV
 http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/166002?output=hls
 
-#EXTINF:-1 group-title="Dokumenty" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbLk2xIcJIIMNrMjRxjd3EY2BZoOs0LEYsr2rIgmTtJA&s", Travel Channel
+#EXTINF:-1 tvg-id="5c4b3a2d1e0f9a8b7c6d5e4f3a2b1c" group-title="Dokumenty" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbLk2xIcJIIMNrMjRxjd3EY2BZoOs0LEYsr2rIgmTtJA&s", Travel Channel
 http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/166076?output=hls
 
 #EXTINF:-1 group-title="Dokumenty" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnPugOmAdySLDywuVYBt4GNIUCJ4TgU4_S4Vs71bnYpw&s=10", Travelxp HD
 http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/33663?output=hls
 
 # Deti
-#EXTINF:-1 group-title="Deti" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlHJu_5TEYzgvUqy-OL6RxGRRzEVoMWJACDcVEB5LuUA&s=10", Disney Channel
+#EXTINF:-1 tvg-id="2ea31fb1106ae1fd72f821c8a0b66036" group-title="Deti" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlHJu_5TEYzgvUqy-OL6RxGRRzEVoMWJACDcVEB5LuUA&s=10", Disney Channel
 http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/165982?output=hls
 
 #EXTINF:-1 group-title="Deti" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSIgdm0G22YDQEVNp4WTmsi1E74e2Nt5uroyfAfKsihw&s=10", Disney Junior
 http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/165983?output=hls
 
-#EXTINF:-1 group-title="Deti" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhCNs7x5dpssBeYh6QKIAlkd1QuvV_JZZkevOZiWELJg&s=10", Minimax
+#EXTINF:-1 tvg-id="5ff1db99d9d375197f63728493b830a4" group-title="Deti" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhCNs7x5dpssBeYh6QKIAlkd1QuvV_JZZkevOZiWELJg&s=10", Minimax
 http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/166031?output=hls
 
-#EXTINF:-1 group-title="Deti" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPAeHV8q1kqF6oPxNs4rT9cuCcxT78fHSE5BhNh5_geA&s=10", JimJam CZ
+#EXTINF:-1 tvg-id="36ae6592057db79e387a5057260ce3e0" group-title="Deti" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPAeHV8q1kqF6oPxNs4rT9cuCcxT78fHSE5BhNh5_geA&s=10", JimJam CZ
 http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/166008?output=hls
 
-#EXTINF:-1 group-title="Deti" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQx4MVP_Y7P-Njvc62qQ_uP5JK6KWitCTxeIrnm4l3eww&s=10", Nickelodeon CZ
+#EXTINF:-1 tvg-id="c8d30d0c254b10fe11c3fdc048abb9d0" group-title="Deti" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQx4MVP_Y7P-Njvc62qQ_uP5JK6KWitCTxeIrnm4l3eww&s=10", Nickelodeon CZ
 http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/166041?output=hls
 
-#EXTINF:-1 group-title="Deti" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwn_g4XiYgBDDyuShiWFZjn3ZjcV9BU8oQVTRQP7-7uA&s=10", Cartoon Network CZ
+#EXTINF:-1 tvg-id="d8a6ed35315439049d6d05e774009903" group-title="Deti" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwn_g4XiYgBDDyuShiWFZjn3ZjcV9BU8oQVTRQP7-7uA&s=10", Cartoon Network CZ
 http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/176341?output=hls
 
 #EXTINF:-1 group-title="Deti" tvg-logo="https://i.pinimg.com/736x/27/a7/d3/27a7d36f3ac0a60c681d5cc295de819f.jpg", Cartoonito
@@ -324,10 +324,10 @@ http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/176281?output=hls
 #EXTINF:-1 group-title="Deti" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhCNs7x5dpssBeYh6QKIAlkd1QuvV_JZZkevOZiWELJg&s=10", Mini Max
 http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/176313?output=hls
 
-#EXTINF:-1 group-title="Deti" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyKe5hcu-QGHG0J9Bz3RFEGfixAu-ho2J6rqBdxpr19Q&s", Nick Jr Czech
+#EXTINF:-1 tvg-id="46ca926d235b14dc54a508afc1dc2115" group-title="Deti" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyKe5hcu-QGHG0J9Bz3RFEGfixAu-ho2J6rqBdxpr19Q&s", Nick Jr Czech
 http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/35343?output=hls
 
-#EXTINF:-1 group-title="Deti" tvg-logo="https://yt3.googleusercontent.com/j4UYeTrf9m219JKFj1cMpy50DyuCKO23p9V1bp5dGPviNzo1vy6wvAGrpVAKiwd8PqKekCjRVsQ=s900-c-k-c0x00ffffff-no-rj", LALA TV
+#EXTINF:-1 tvg-id="d6dec77f0acb6c1a3c6fc390d672bf58" group-title="Deti" tvg-logo="https://yt3.googleusercontent.com/j4UYeTrf9m219JKFj1cMpy50DyuCKO23p9V1bp5dGPviNzo1vy6wvAGrpVAKiwd8PqKekCjRVsQ=s900-c-k-c0x00ffffff-no-rj", LALA TV
 http://88.212.15.47/live/test_lala_25p/playlist.m3u8
 
 #EXTINF:-1 group-title="Deti" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGpIPvKZg-OhkpkOlGjfQ_-eaC3t7adVh17gKJkZOneg&s=10", RiK TV
