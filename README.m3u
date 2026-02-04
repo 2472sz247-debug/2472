@@ -1,7 +1,5 @@
 #EXTM3U
-x-url-tvg="http://epgshare01.online/epgshare01/epg_ripper_CZ1.xml.gz"
 
-# Slovenské TV
 #EXTINF:-1 tvg-id="Markiza.cz" group-title="Slovenské TV" tvg-logo="https://staticeu.sweet.tv/images/cache/channel_icons/BC4AOIBC/952-markiza-hd.png", Markiza HD
 http://88.212.15.47/live/test_markiza_25p/playlist.m3u8
 
