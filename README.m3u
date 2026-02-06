@@ -1,12 +1,12 @@
-#EXTM3U 
+#EXTM3U
 x-url-tvg="https://epgshare01.online/epgshare01/epg_ripper_CZ1.xml.gz"
 #EXTINF:-1 tvg-id="Markíza.cz" group-title="Slovenské TV" tvg-logo="https://staticeu.sweet.tv/images/cache/channel_icons/BC4AOIBC/952-markiza-hd.png", Markiza HD
 http://88.212.15.47/live/test_markiza_25p/playlist.m3u8
-#EXTINF:-1 tvg-id="Markíza.+1.cz" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQchKu0wEYeAtOEx63caF9nYteI9hfw6uqrJ3oK9iaAJg&s=10",Markíza +1
+#EXTINF:-1 tvg-id="Markíza.+1.cz" group-title="Slovenské TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQchKu0wEYeAtOEx63caF9nYteI9hfw6uqrJ3oK9iaAJg&s=10",Markíza +1
 http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/166025
 #EXTINF:-1 tvg-id="JOJ.cz" group-title="Slovenské TV" tvg-logo="https://staticeu.sweet.tv/images/cache/channel_icons/BCXAMIBC/814-joj-hd.png", TV JOJ HD
 http://88.212.15.47/live/test_joj_25p/playlist.m3u8
-#EXTINF:-1 tvg-id="TV.JOJ.+1.cz" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEHKgTWLSYSNlp2tYXjtDwVnuGquxT3NJihLXs8P5miA&s=10",JOJ +1
+#EXTINF:-1 tvg-id="TV.JOJ.+1.cz" group-title="Slovenské TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEHKgTWLSYSNlp2tYXjtDwVnuGquxT3NJihLXs8P5miA&s=10",JOJ +1
 http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/166010
 #EXTINF:-1 tvg-id="Jednotka.cz" group-title="Slovenské TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/Stv1_sk_hd.png", Jednotka HD
 http://88.212.15.47/live/test_jednotka_25p/playlist.m3u8
@@ -22,7 +22,7 @@ http://88.212.15.47/live/test_dajto_25p/playlist.m3u8
 http://88.212.15.47/live/test_pluska_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="JOJ.Cinema.cz" group-title="Slovenské TV" tvg-logo="https://staticeu.sweet.tv/images/cache/channel_icons/BCWQMIBC/813-joj-cinema-hd.png", JOJ Cinema HD
 http://88.212.15.47/live/test_joj_cinema_25p/playlist.m3u8
-#EXTINF:-1 tvg-id="JOJ.Cinema.+1.cz" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYb4ODuEK3t4APfzV8p_bB5p3CgpjL8YOYesyKFSj35A&s=10", JOJ Cinema +1
+#EXTINF:-1 tvg-id="JOJ.Cinema.+1.cz" group-title="Slovenské TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYb4ODuEK3t4APfzV8p_bB5p3CgpjL8YOYesyKFSj35A&s=10", JOJ Cinema +1
 http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/166013
 #EXTINF:-1 tvg-id="JOJ.Svet.cz" group-title="Slovenské TV" tvg-logo="https://staticeu.sweet.tv/images/cache/channel_icons/BDBAYIBC/1602-joj-svet-hd.png", JOJ Svet HD
 http://88.212.15.47/live/test_joj_svet/playlist.m3u8
@@ -30,7 +30,7 @@ http://88.212.15.47/live/test_joj_svet/playlist.m3u8
 http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/166011?output=hls
 #EXTINF:-1 tvg-id="WAU.cz" group-title="Slovenské TV" tvg-logo="https://staticeu.sweet.tv/images/cache/channel_icons/BCZAMIBC/819-wau-hd.png", WAU HD
 http://88.212.15.47/live/test_wau_25p/playlist.m3u8
-#EXTINF:-1 tvg-id="Seznam.cz.TV.cz" group-title="Slovenské TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE-0FUAFxl1Lq0GyDnr94aYkeE5hPRgLIKQ2UeS65d6Q&s=10", Seznam TV
+#EXTINF:-1 tvg-id="Seznam.cz.TV.cz" group-title="České TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE-0FUAFxl1Lq0GyDnr94aYkeE5hPRgLIKQ2UeS65d6Q&s=10", Seznam TV
 http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/176336?output=hls
 #EXTINF:-1 tvg-id="TA3.cz" group-title="Slovenské TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQc3P8oq2maK6brcbCXToFBzQ3PogBcw_cweYP7f9qQnA&s=10", TA3 HD
 http://88.212.15.47/live/test_ta3_25p/playlist.m3u8
@@ -88,9 +88,9 @@ http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/83767?output=hls
 http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/162885?output=hls
 #EXTINF:-1 tvg-id="Nova.Sport.6.cz" group-title="Šport" tvg-logo="https://cmesk-ott-images-svod.ssl.cdn.cra.cz/8d80a3b7-e321-490e-b6d4-fed0c1c7d22b.png", Nova Sport 6 HD
 http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/162887?output=hls
-#EXTINF:-1 tvg-id="Sport1.cz" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8oErSQbxamMhRkAhm965p-MkBYwkmM5PfHkkEVyhZAg&s=10",Sport 1 HD
+#EXTINF:-1 tvg-id="Sport1.cz" group-title="Šport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8oErSQbxamMhRkAhm965p-MkBYwkmM5PfHkkEVyhZAg&s=10",Sport 1 HD
 http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/33657
-#EXTINF:-1 tvg-id="Sport 2.cz" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkkI1oTQreSNTFA5YCJrirdYvSSdPeFo55cAm3GfWvFQ&s=10",Sport 2 HD
+#EXTINF:-1 tvg-id="Sport 2.cz" group-title="Šport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkkI1oTQreSNTFA5YCJrirdYvSSdPeFo55cAm3GfWvFQ&s=10",Sport 2 HD
 http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/33658
 #EXTINF:-1 tvg-id="Arena.Sport.1.cz" group-title="Šport" tvg-logo="https://gcp-static.sweet.tv/images/v2/icons/channels/v2/834.webp", Arena Sport 1 HD
 http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/165962?output=hls
@@ -136,11 +136,11 @@ http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/177797?output=hls
 http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/177796?output=hls
 #EXTINF:-1 tvg-id="AMC.cz" group-title="Filmy" tvg-logo="https://staticeu.sweet.tv/images/cache/channel_icons/BDOAOIBC/988-amc-hd.png", AMC SK
 http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/165959?output=hls
-#EXTINF:-1 tvg-id="Axn.cz" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSrQjbwK3oTfDnTZV1GAIheeA3v2kXZ6SIldIW9BC35A&s=10",AXN
+#EXTINF:-1 tvg-id="Axn.cz" group-title="Filmy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSrQjbwK3oTfDnTZV1GAIheeA3v2kXZ6SIldIW9BC35A&s=10",AXN
 http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/176276
-#EXTINF:-1 tvg-id="AXN.Black.cz" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvykFESB9_e3ZW7qs3ykFABr1R1Z2KmBq3bZiGz8gNCA&s=10",AXN Black
+#EXTINF:-1 tvg-id="AXN.Black.cz" group-title="Filmy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvykFESB9_e3ZW7qs3ykFABr1R1Z2KmBq3bZiGz8gNCA&s=10",AXN Black
 http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/176277
-#EXTINF:-1 tvg-id="AXN.White.cz" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLMftrJNBL-N7Cz34l_cjxlott8gPNcdp4aHCGuTAC7w&s=10",AXN White
+#EXTINF:-1 tvg-id="AXN.White.cz" group-title="Filmy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLMftrJNBL-N7Cz34l_cjxlott8gPNcdp4aHCGuTAC7w&s=10",AXN White
 http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/176278
 #EXTINF:-1 tvg-id="Filmbox.Premium.cz" group-title="Filmy" tvg-logo="https://staticeu.sweet.tv/images/cache/channel_icons/BCHAQIBC/1038-filmbox-premium-hd.png", Filmbox Premium HD
 http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/165994?output=hls
@@ -198,7 +198,7 @@ http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/279006?output=hls
 http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/166075?output=hls
 #EXTINF:-1 tvg-id="Food.Network.cz" group-title="Dokumenty" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBqDYP4vCxJ8liLw1wZoTOpdOtalKO2ssJz9LKLw7msg&s=10", Food Network HD
 http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/176303?output=hls
-#EXTINF:-1 tvg-id="Spektrum.cz" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz1fifJrFsbUZrXMaQNnL5HIr9OmHzvBePJs9FUDLXzg&s=10",Spektrum
+#EXTINF:-1 tvg-id="Spektrum.cz" group-title="Dokumenty" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz1fifJrFsbUZrXMaQNnL5HIr9OmHzvBePJs9FUDLXzg&s=10",Spektrum
 http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/166067
 #EXTINF:-1 tvg-id="Spektrum.Home.cz" group-title="Dokumenty" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYtkPdU6_YegQZ74Vq0XUkJU6VA7NR_wyobIXhf5habA&s=10", Spektrum Home
 http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/166068?output=hls
