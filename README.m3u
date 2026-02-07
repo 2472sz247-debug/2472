@@ -21,7 +21,7 @@ http://88.212.15.47/live/test_joj_25p/playlist.m3u8
 http://88.212.15.47/live/test_doma_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="Dajto.cz" group-title="Slovenské TV" tvg-logo="https://staticeu.sweet.tv/images/cache/channel_icons/BC5QOIBC/955-dajto-hd.png", DAJTO
 http://88.212.15.47/live/test_dajto_25p/playlist.m3u8
-#EXTINF:-1 tvg-id="Markíza.KRIMI.cz" group-title="Slovenské TV" tvg-logo="https://staticeu.sweet.tv/images/cache/channel_icons/BC4QOIBC/953-markiza-krimi-hd.png", MARKIZA KRIMI
+#EXTINF:-1 tvg-id="Markíza.KRIMI.cz" group-title="Slovenské TV" tvg-logo="https://staticeu.sweet.tv/images/cache/channel_icons/BC4QOIBC/953-markza-krimi-hd.png", MARKIZA KRIMI
 http://88.212.15.47/live/test_markiza_krimi_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="JOJ.Plus.cz" group-title="Slovenské TV" tvg-logo="https://staticeu.sweet.tv/images/cache/channel_icons/BCYAMIBC/816-joj-plus-hd.png", JOJ PLUS
 http://88.212.15.47/live/test_pluska_25p/playlist.m3u8
@@ -37,16 +37,20 @@ http://88.212.15.47/live/test_wau_25p/playlist.m3u8
 http://88.212.15.47/live/test_ta3_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="A11.cz" group-title="Slovenské TV" tvg-logo="https://staticeu.sweet.tv/images/cache/channel_icons/BCNQYIBC/1563-a11-hd.png", A11
 http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/165958
+#EXTINF:-1 tvg-id="ČT1.cz" group-title="České TV" tvg-logo="https://gcp-static.sweet.tv/images/v2/icons/channels/v2/743.webp", ČT 1
+http://88.212.15.47/live/test_ct1_25p/playlist.m3u8
+#EXTINF:-1 tvg-id="ČT2.cz" group-title="České TV" tvg-logo="https://gcp-static.sweet.tv/images/v2/icons/channels/v2/2396.webp", ČT 2
+http://88.212.15.47/live/test_ct2_25p/playlist.m3u8
+#EXTINF:-1 tvg-id="ČT24.cz" group-title="České TV" tvg-logo="https://pbs.twimg.com/amplify_video_thumb/1980298905536344065/img/5fsY7BLUhcjed0Mf.jpg", ČT 24
+http://88.212.15.47/live/ct24_avc_25p/playlist.m3u8
+#EXTINF:-1 tvg-id="ČT.art.cz" group-title="České TV" tvg-logo="https://gcp-static.sweet.tv/images/v2/icons/channels/v2/2398.webp", ČT ART
+http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/165976
+#EXTINF:-1 tvg-id="CNN.Prima.News.cz" group-title="České TV" tvg-logo="https://staticeu.sweet.tv/images/cache/channel_icons/BDTAKIBC/742-cnn-prima-news-hd.png", CNN PRIMA NEWS
+http://88.212.15.47/live/test_cnn_pirma_news/playlist.m3u8
+#EXTINF:-1 tvg-id="Nova.International.cz" group-title="České TV" tvg-logo="https://www.skylink.sk/doc/um_kanal_img/nova_international-432.png", NOVA INTERNATIONAL
+http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/166043
 #EXTINF:-1 tvg-id="Nova.cz" group-title="České TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfgYZRk_v_LUTIsPzRPLFLrkR9zqsbL57M3Q&s", NOVA
 http://88.212.15.47/live/nova_avc_25p/playlist.m3u8
-#EXTINF:-1 tvg-id="ČT1.cz" group-title="České TV" tvg-logo="https://gcp-static.sweet.tv/images/v2/icons/channels/v2/743.webp", CT 1
-http://88.212.15.47/live/test_ct1_25p/playlist.m3u8
-#EXTINF:-1 tvg-id="Prima.SK.cz" group-title="České TV" tvg-logo="https://staticeu.sweet.tv/images/cache/channel_icons/BDXQKIBC/751-prima-hd.png", PRIMA SK
-http://88.212.15.47/live/prima_avc_25p/playlist.m3u8
-#EXTINF:-1 tvg-id="ČT2.cz" group-title="České TV" tvg-logo="https://gcp-static.sweet.tv/images/v2/icons/channels/v2/2396.webp", CT 2
-http://88.212.15.47/live/test_ct2_25p/playlist.m3u8
-#EXTINF:-1 tvg-id="ČT24.cz" group-title="České TV" tvg-logo="https://pbs.twimg.com/amplify_video_thumb/1980298905536344065/img/5fsY7BLUhcjed0Mf.jpg", CT 24
-http://88.212.15.47/live/ct24_avc_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="Nova.Action.cz" group-title="České TV" tvg-logo="https://gcp-static.sweet.tv/images/v2/icons/channels/v2/2006.webp", NOVA ACTION
 http://88.212.15.47/live/nova_action_avc_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="Nova.Cinema.cz" group-title="České TV" tvg-logo="https://staticeu.sweet.tv/images/cache/channel_icons/BD5AGIBC/506-nova-cinema-hd.png", NOVA CINEMA
@@ -59,6 +63,10 @@ http://88.212.15.47/live/test_nova_lady_hevc_25p/playlist.m3u8
 http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/165969
 #EXTINF:-1 tvg-id="Krimi.Barrandov.cz" group-title="České TV" tvg-logo="https://gcp-static.sweet.tv/images/v2/icons/channels/v2/741.webp", BARRANDOV KRIMI
 http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/165970
+#EXTINF:-1 tvg-id="Seznam.cz.TV.cz" group-title="České TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE-0FUAFxl1Lq0GyDnr94aYkeE5hPRgLIKQ2UeS65d6Q&s=10", SEZNAM TV
+http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/176336
+#EXTINF:-1 tvg-id="Prima.SK.cz" group-title="České TV" tvg-logo="https://staticeu.sweet.tv/images/cache/channel_icons/BDXQKIBC/751-prima-hd.png", PRIMA SK
+http://88.212.15.47/live/prima_avc_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="Prima.COOL.SK.cz" group-title="České TV" tvg-logo="https://staticeu.sweet.tv/images/cache/channel_icons/BDPQMIBC/863-prima-cool-hd.png", PRIMA COOL SK
 http://88.212.15.47/live/prima_cool_cz_hevc/index.m3u8
 #EXTINF:-1 tvg-id="Prima.KRIMI.SK.cz" group-title="České TV" tvg-logo="https://staticeu.sweet.tv/images/cache/channel_icons/BDRAMIBC/866-prima-krimi-hd.png", PRIMA KRIMI SK
@@ -71,14 +79,6 @@ http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/166053
 http://88.212.15.47/live/prima_show_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="Prima.ZOOM.cz" group-title="České TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQD86ItY8BT3JWEX4BnjA7ShJi7M1yN-po6qg&s", PRIMA ZOOM
 http://88.212.15.47/live/test_prima_zoom_hevc/playlist.m3u8
-#EXTINF:-1 tvg-id="CNN.Prima.News.cz" group-title="České TV" tvg-logo="https://staticeu.sweet.tv/images/cache/channel_icons/BDTAKIBC/742-cnn-prima-news-hd.png", CNN PRIMA NEWS
-http://88.212.15.47/live/test_cnn_pirma_news/playlist.m3u8
-#EXTINF:-1 tvg-id="ČT.art.cz" group-title="České TV" tvg-logo="https://gcp-static.sweet.tv/images/v2/icons/channels/v2/2398.webp", CT ART
-http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/165976
-#EXTINF:-1 tvg-id="Nova.International.cz" group-title="České TV" tvg-logo="https://www.skylink.sk/doc/um_kanal_img/nova_international-432.png", NOVA INTERNATIONAL
-http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/166043
-#EXTINF:-1 tvg-id="Seznam.cz.TV.cz" group-title="České TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE-0FUAFxl1Lq0GyDnr94aYkeE5hPRgLIKQ2UeS65d6Q&s=10", SEZNAM TV
-http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/176336
 #EXTINF:-1 tvg-id="Nova.Sport.1.cz" group-title="Šport" tvg-logo="https://cmesk-ott-images-svod.ssl.cdn.cra.cz/010f9f37-7bfb-40ea-ad01-2aa807cbf522.png", NOVA SPORT 1
 http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/22647
 #EXTINF:-1 tvg-id="Nova.Sport.2.cz" group-title="Šport" tvg-logo="https://cmesk-ott-images-svod.ssl.cdn.cra.cz/ea39fa80-634c-4ecb-8add-56ed932ba2ac.png", NOVA SPORT 2
@@ -115,10 +115,6 @@ http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/85402
 http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/165962
 #EXTINF:-1 tvg-id="Arena.Sport.2.cz" group-title="Šport" tvg-logo="https://gcp-static.sweet.tv/images/v2/icons/channels/v2/835.webp", ARENA SPORT 2
 http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/165963
-#EXTINF:-1 tvg-id="Sport1.cz" group-title="Šport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8oErSQbxamMhRkAhm965p-MkBYwkmM5PfHkkEVyhZAg&s=10", SPORT 1
-http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/33657
-#EXTINF:-1 tvg-id="Sport2.cz" group-title="Šport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkkI1oTQreSNTFA5YCJrirdYvSSdPeFo55cAm3GfWvFQ&s=10", SPORT 2
-http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/33658
 #EXTINF:-1 tvg-id="Oneplay.Sport.1.cz" group-title="Šport" tvg-logo="https://yt3.googleusercontent.com/XD3rtUVnogU_Cy1CUS9Y7Q1jmesBNJ1-Lzih2Cslh-_ZWacSpdWVB_ICwwWWkEo07Lgxwh_a2Q=s900-c-k-c0x00ffffff-no-rj", ONEPLAY SPORT 1
 http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/20713
 #EXTINF:-1 tvg-id="Oneplay.Sport.2.cz" group-title="Šport" tvg-logo="https://yt3.googleusercontent.com/XD3rtUVnogU_Cy1CUS9Y7Q1jmesBNJ1-Lzih2Cslh-_ZWacSpdWVB_ICwwWWkEo07Lgxwh_a2Q=s900-c-k-c0x00ffffff-no-rj", ONEPLAY SPORT 2
@@ -126,7 +122,11 @@ http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/84428
 #EXTINF:-1 tvg-id="Oneplay.Sport.3.cz" group-title="Šport" tvg-logo="https://yt3.googleusercontent.com/XD3rtUVnogU_Cy1CUS9Y7Q1jmesBNJ1-Lzih2Cslh-_ZWacSpdWVB_ICwwWWkEo07Lgxwh_a2Q=s900-c-k-c0x00ffffff-no-rj", ONEPLAY SPORT 3
 http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/35341
 #EXTINF:-1 tvg-id="Oneplay.Sport.4.cz" group-title="Šport" tvg-logo="https://yt3.googleusercontent.com/XD3rtUVnogU_Cy1CUS9Y7Q1jmesBNJ1-Lzih2Cslh-_ZWacSpdWVB_ICwwWWkEo07Lgxwh_a2Q=s900-c-k-c0x00ffffff-no-rj", ONEPLAY SPORT 4
-http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/194173
+http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/194173 
+#EXTINF:-1 tvg-id="Sport1.cz" group-title="Šport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8oErSQbxamMhRkAhm965p-MkBYwkmM5PfHkkEVyhZAg&s=10", SPORT 1
+http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/33657
+#EXTINF:-1 tvg-id="Sport2.cz" group-title="Šport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkkI1oTQreSNTFA5YCJrirdYvSSdPeFo55cAm3GfWvFQ&s=10", SPORT 2
+http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/33658
 #EXTINF:-1 tvg-id="Sporty.TV.cz" group-title="Šport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2FRiH88z88UhcE6zfn5AQVjGP45f7BlwTvcXhs6zeNw&s=10", SPORTY TV
 http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/189851
 #EXTINF:-1 tvg-id="HBO2.cz" group-title="Filmy" tvg-logo="https://i.pinimg.com/736x/8b/02/00/8b020050690f955ccb306cdf51324aea.jpg", HBO
@@ -169,6 +169,12 @@ http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/176283
 http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/35347
 #EXTINF:-1 tvg-id="Discovery.Channel.cz" group-title="Dokumenty" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEhS4znaL7BVSnkJjr38E43AfootR6dNjCFD-mwMxD2g&s=10", DISCOVERY
 http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/165981
+#EXTINF:-1 tvg-id="Viasat.History.cz" group-title="Dokumenty" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5j0QMhzy7LMTLNXJHiks6wdX7BT4J5cIRRwu0r5efmw&s", VIASAT HISTORY
+http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/176344
+#EXTINF:-1 tvg-id="Viasat.Explore.cz" group-title="Dokumenty" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ3oXEdRSyeFlMmRTYEGLkrGdGaCClzheDS3FS3RWOMw&s", VIASAT EXPLORE
+http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/176343
+#EXTINF:-1 tvg-id="Viasat.Nature.cz" group-title="Dokumenty" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOwSfkT-NOOpOcCYmA9fwBXzS1BLV3AogUyxOi47rObQ&s=10", VIASAT NATURE
+http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/176345 
 #EXTINF:-1 tvg-id="National.Geographic.HD.cz" group-title="Dokumenty" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_qMnODhq5ufL0-4ue2tJIyoxyBKJcEKdvV0rVuqLImA&s=10", NATIONAL GEOGRAPHIC
 http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/166038
 #EXTINF:-1 tvg-id="National.Geographic.Wild.(hr).cz" group-title="Dokumenty" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTW-1TkcUcZF1VsPKqzRiJNmxJgXPL-FImXsWScd2rZg&s=10", NAT GEO WILD CZ
@@ -181,12 +187,6 @@ http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/166004
 http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/176284
 #EXTINF:-1 tvg-id="CS.Mystery.cz" group-title="Dokumenty" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_TP-Fl6xMdL0ZJFdedGdBkQrk49snZTBH4mQU594T9w&s=10", CS MYSTERY
 http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/176285
-#EXTINF:-1 tvg-id="Viasat.History.cz" group-title="Dokumenty" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5j0QMhzy7LMTLNXJHiks6wdX7BT4J5cIRRwu0r5efmw&s", VIASAT HISTORY
-http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/176344
-#EXTINF:-1 tvg-id="Viasat.Explore.cz" group-title="Dokumenty" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ3oXEdRSyeFlMmRTYEGLkrGdGaCClzheDS3FS3RWOMw&s", VIASAT EXPLORE
-http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/176343
-#EXTINF:-1 tvg-id="Viasat.Nature.cz" group-title="Dokumenty" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOwSfkT-NOOpOcCYmA9fwBXzS1BLV3AogUyxOi47rObQ&s=10", VIASAT NATURE
-http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/176345
 #EXTINF:-1 tvg-id="Viasat.True.Crime.cz" group-title="Dokumenty" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPpEKUIKgc5SOPSnkTkoFItVTECHkYH3i79hP0Fhes2A&s=10", VIASAT TRUE CRIME
 http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/279006
 #EXTINF:-1 tvg-id="TLC.cz" group-title="Dokumenty" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7A9re0wUd4v1zYlvWhitAMinYn2UfNRYEd4Dgp-3zQQ&s=10", TLC
@@ -233,14 +233,6 @@ http://88.212.15.47/live/test_lala_25p/playlist.m3u8
 http://88.212.15.47/live/test_rik/playlist.m3u8
 #EXTINF:-1 tvg-id="Jojko.cz" group-title="Deti" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmJW03siWDXhf4R9WB8_XNnNSti43oj7dhF3u-IsHeoQ&s=10", JOJKO
 http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/166017
-#EXTINF:22 tvg-id="MTV.Hits.cz" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWpd39MWsr6ZNyazhxw9_5ZG5Eer5UJwS4tw&s" group-title="Hudba", MTV HITS
-http://88.212.15.47/live/test_mtv_hits_1200_atk/playlist.m3u8
-#EXTINF:22 tvg-id="Klub.MTV.cz" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNZke0pR8Fq7-Cu0YcTgJe9uh6UeAvKzpVpQ&s" group-title="Hudba", CLUB MTV
-http://88.212.15.47/live/test_mtv_dance_1200_atk/playlist.m3u8
-#EXTINF:22 tvg-id="MTV90s.cz" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxXskn9GJueJd6DXtpr_Ct8Oxb4TAeF5lIcFHczCTMcCzniGh9MR_V3Xo&s=10" group-title="Hudba", MTV 90S
-http://88.212.15.47/live/test_mtv_rocks_1200_atk/playlist.m3u8
-#EXTINF:22 tvg-id="MTV80s.cz" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu27P4bPVgLpQMY1hyEKIZSJtisg9ysx3SRcOgLPwRAA&s=10" group-title="Hudba", MTV 80S
-http://88.212.15.47/live/test_vh_1_classic_1200_atk/playlist.m3u8
 #EXTINF:-1 tvg-id="Óčko.cz" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRKG-1euCMYLutqXLGqxp7mEqb0OUcbbk-DpP_OuRc_A&s=10" group-title="Hudba", OČKO
 http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/176346
 #EXTINF:-1 tvg-id="Óčko.Black.cz" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReqt-uGSBz-Q8iinBn4riHEr04ZW6-TGXfgHQzAfVKpQ&s=10" group-title="Hudba", OČKO BLACK
@@ -258,7 +250,15 @@ http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/34948
 #EXTINF:-1 tvg-id="Šlágr.Originál.cz" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_fCb3M4Ui-hf2OZiefXPCynJy5YftkX9lJpvm_8naFg&s" group-title="Hudba", ŠLÁGER ORIGINÁL
 http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/166064
 #EXTINF:-1 tvg-id="SENZI.cz" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjb30ChlI3d8OORBQzg29lxgd-5bFLVFZA6Jd3uHPN8g&s=10" group-title="Hudba", SENZI
-http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/166061
+http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/166061 
+#EXTINF:22 tvg-id="MTV.Hits.cz" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWpd39MWsr6ZNyazhxw9_5ZG5Eer5UJwS4tw&s" group-title="Hudba", MTV HITS
+http://88.212.15.47/live/test_mtv_hits_1200_atk/playlist.m3u8
+#EXTINF:22 tvg-id="Klub.MTV.cz" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNZke0pR8Fq7-Cu0YcTgJe9uh6UeAvKzpVpQ&s" group-title="Hudba", CLUB MTV
+http://88.212.15.47/live/test_mtv_dance_1200_atk/playlist.m3u8
+#EXTINF:22 tvg-id="MTV90s.cz" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxXskn9GJueJd6DXtpr_Ct8Oxb4TAeF5lIcFHczCTMcCzniGh9MR_V3Xo&s=10" group-title="Hudba", MTV 90S
+http://88.212.15.47/live/test_mtv_rocks_1200_atk/playlist.m3u8
+#EXTINF:22 tvg-id="MTV80s.cz" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu27P4bPVgLpQMY1hyEKIZSJtisg9ysx3SRcOgLPwRAA&s=10" group-title="Hudba", MTV 80S
+http://88.212.15.47/live/test_vh_1_classic_1200_atk/playlist.m3u8
 #EXTINF:-1 tvg-id="Šlágr.Premium.cz" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2LzKMgASfN7dKP0VGxHQbqt7mB3XLYInSP-9hgIGBkA&s" group-title="Hudba", ŠLÁGER PREMIUM
 http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/166065
 #EXTINF:0 tvg-id="Folklorika.cz" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZM8jjtExrs3KzGHw-Y7I6Z-INP76AtaCitNc51p4zQA&s" group-title="Hudba", FOLKLORIKA
