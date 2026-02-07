@@ -84,7 +84,7 @@ http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/162885
 http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/162887
 #EXTINF:-1 tvg-id="Sport1.cz" group-title="Šport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8oErSQbxamMhRkAhm965p-MkBYwkmM5PfHkkEVyhZAg&s=10", SPORT 1
 http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/33657
-#EXTINF:-1 tvg-id="Sport 2.cz" group-title="Šport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkkI1oTQreSNTFA5YCJrirdYvSSdPeFo55cAm3GfWvFQ&s=10", SPORT 2
+#EXTINF:-1 tvg-id="Sport2.cz" group-title="Šport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkkI1oTQreSNTFA5YCJrirdYvSSdPeFo55cAm3GfWvFQ&s=10", SPORT 2
 http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/33658
 #EXTINF:-1 tvg-id="Arena.Sport.1.cz" group-title="Šport" tvg-logo="https://gcp-static.sweet.tv/images/v2/icons/channels/v2/834.webp", ARENA SPORT 1
 http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/165962
@@ -122,7 +122,7 @@ http://88.212.15.47/live/test_joj_sport_hd_hevc/playlist.m3u8
 http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/166074
 #EXTINF:-1 tvg-id="Canal+.Action.cz" group-title="Filmy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0_ktqjE2YxjUcB_fju_ljR08_vcBHxmNMnrj_q-s_J1Y9jD-U00g9vEMTtF9NG2ldAYU&usqp=CAU", CANAL+ ACTION
 http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/35340
-#EXTINF:-1 tvg-id="HBO.cz" group-title="Filmy" tvg-logo="https://i.pinimg.com/736x/8b/02/00/8b020050690f955ccb306cdf51324aea.jpg", HBO
+#EXTINF:-1 tvg-id="HBO2.cz" group-title="Filmy" tvg-logo="https://i.pinimg.com/736x/8b/02/00/8b020050690f955ccb306cdf51324aea.jpg", HBO
 http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/177798
 #EXTINF:-1 tvg-id="HBO2.cz" group-title="Filmy" tvg-logo="https://teleprogram.sk/tv/hbo2.png", HBO2
 http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/177797
@@ -226,7 +226,7 @@ http://88.212.15.47/live/test_rik/playlist.m3u8
 http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/166017
 #EXTINF:22 tvg-id="MTV.Hits.cz" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWpd39MWsr6ZNyazhxw9_5ZG5Eer5UJwS4tw&s" group-title="Hudba", MTV HITS
 http://88.212.15.47/live/test_mtv_hits_1200_atk/playlist.m3u8
-#EXTINF:22 tvg-id="Club.MTV.cz" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNZke0pR8Fq7-Cu0YcTgJe9uh6UeAvKzpVpQ&s" group-title="Hudba", CLUB MTV
+#EXTINF:22 tvg-id="Klub.MTV.cz" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNZke0pR8Fq7-Cu0YcTgJe9uh6UeAvKzpVpQ&s" group-title="Hudba", CLUB MTV
 http://88.212.15.47/live/test_mtv_dance_1200_atk/playlist.m3u8
 #EXTINF:22 tvg-id="MTV90s.cz" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxXskn9GJueJd6DXtpr_Ct8Oxb4TAeF5lIcFHczCTMcCzniGh9MR_V3Xo&s=10" group-title="Hudba", MTV 90S
 http://88.212.15.47/live/test_mtv_rocks_1200_atk/playlist.m3u8
@@ -246,11 +246,11 @@ http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/176271
 http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/166063
 #EXTINF:-1 tvg-id="Šlágr.Muzika.cz" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHNa0eI0oIyAsLI_yTyJfhLI1H0vY1ToJcyKFARZeq0w&s=10" group-title="Hudba", ŠLÁGER MUZIKA
 http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/34948
-#EXTINF:-1 tvg-id="Šlágr.Originál.cz" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEhuLbv7qJyJ_LNFWo2TzFJ7rfhr7bOla0mJ3xRGHi1M7Uo9K13Bd5wKk5&s=10" group-title="Hudba", ŠLÁGER ORIGINÁL
+#EXTINF:-1 tvg-id="Šlágr.Originál.cz" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_fCb3M4Ui-hf2OZiefXPCynJy5YftkX9lJpvm_8naFg&s" group-title="Hudba", ŠLÁGER ORIGINÁL
 http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/166064
 #EXTINF:-1 tvg-id="SENZI.cz" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjb30ChlI3d8OORBQzg29lxgd-5bFLVFZA6Jd3uHPN8g&s=10" group-title="Hudba", SENZI
 http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/166061
 #EXTINF:-1 tvg-id="Šlágr.Premium.cz" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2LzKMgASfN7dKP0VGxHQbqt7mB3XLYInSP-9hgIGBkA&s" group-title="Hudba", ŠLÁGER PREMIUM
 http://supiptv.vip:8080/ehXNRSMh21AY/jkXbW7frtgae/166065
-#EXTINF:0 tvg-id="Folklorika.cz" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZM8jjtExrs3KzGHw-Y7I6Z-INP76AtaCitNc51p4zQA&s" group-title="Ľudovky / Folklor", FOLKLORIKA
+#EXTINF:0 tvg-id="Folklorika.cz" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZM8jjtExrs3KzGHw-Y7I6Z-INP76AtaCitNc51p4zQA&s" group-title="Hudba", FOLKLORIKA
 http://88.212.15.47/live/test_folklorika_atktv/playlist.m3u8
