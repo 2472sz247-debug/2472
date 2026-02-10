@@ -3,9 +3,9 @@ x-url-tvg="https://epgshare01.online/epgshare01/epg_ripper_CZ1.xml.gz"
 user-agent=Mozilla/5.0 (Linux; Android 10; Android TV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 http-referrer=https://www.google.com/
 http-origin=https://www.google.com/
-#EXTINF:-1 tvg-id="Jednotka.cz" group-title="Slovenské TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/Stv1_sk_hd.png", JEDNOTKA
+#EXTINF:-1 tvg-id="10-jednotka" group-title="Slovenské TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/Stv1_sk_hd.png", JEDNOTKA
 http://88.212.15.47/live/test_jednotka_25p/playlist.m3u8
-#EXTINF:-1 tvg-id="Dvojka.cz" group-title="Slovenské TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/archive/b/b2/20220616181739!Dvojka_logo.svg/120px-Dvojka_logo.svg.png", DVOJKA
+#EXTINF:-1 tvg-id="11-dvojka" group-title="Slovenské TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/archive/b/b2/20220616181739!Dvojka_logo.svg/120px-Dvojka_logo.svg.png", DVOJKA
 http://88.212.15.47/live/test_dvojka_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="Markíza.cz" group-title="Slovenské TV" tvg-logo="https://staticeu.sweet.tv/images/cache/channel_icons/BC4AOIBC/952-markiza-hd.png", MARKIZA
 http://88.212.15.47/live/test_markiza_25p/playlist.m3u8
